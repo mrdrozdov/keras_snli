@@ -71,9 +71,9 @@ def get_data(fn, limit=None):
 
   return left, right, Y
 
-training = get_data('snli_1.0_train.jsonl')
-validation = get_data('snli_1.0_dev.jsonl')
-test = get_data('snli_1.0_test.jsonl')
+training = get_data(os.path.expanduser('~/data/snli_1.0/snli_1.0_train.jsonl'))
+validation = get_data(os.path.expanduser('~/data/snli_1.0/snli_1.0_dev.jsonl'))
+test = get_data(os.path.expanduser('~/data/snli_1.0/snli_1.0_test.jsonl'))
 
 tokenizer = Tokenizer(lower=False, filters='')
 tokenizer.fit_on_texts(training[0] + training[1])
@@ -117,16 +117,16 @@ GLOVE_STORE = 'precomputed_glove.weights'
 if USE_GLOVE:
   if not os.path.exists(GLOVE_STORE + '.npy'):
     print('Computing GloVe')
-  
+
     embeddings_index = {}
-    f = open('glove.840B.300d.txt')
+    f = open(os.path.expanduser('~/data/glove/glove.840B.300d.txt'))
     for line in f:
       values = line.split(' ')
       word = values[0]
       coefs = np.asarray(values[1:], dtype='float32')
       embeddings_index[word] = coefs
     f.close()
-    
+
     # prepare embedding matrix
     embedding_matrix = np.zeros((VOCAB, EMBED_HIDDEN_SIZE))
     for word, i in tokenizer.word_index.items():
@@ -136,7 +136,7 @@ if USE_GLOVE:
         embedding_matrix[i] = embedding_vector
       else:
         print('Missing from GloVe: {}'.format(word))
-  
+
     np.save(GLOVE_STORE, embedding_matrix)
 
   print('Loading GloVe')
@@ -171,15 +171,15 @@ if RNN and LAYERS > 1:
 rnn = SumEmbeddings if not RNN else RNN(return_sequences=False, **rnn_kwargs)
 prem = rnn(prem)
 hypo = rnn(hypo)
-prem = BatchNormalization()(prem)
-hypo = BatchNormalization()(hypo)
+# prem = BatchNormalization()(prem)
+# hypo = BatchNormalization()(hypo)
 
 joint = merge([prem, hypo], mode='concat')
-joint = Dropout(DP)(joint)
+# joint = Dropout(DP)(joint)
 for i in range(3):
   joint = Dense(2 * SENT_HIDDEN_SIZE, activation=ACTIVATION, W_regularizer=l2(L2) if L2 else None)(joint)
-  joint = Dropout(DP)(joint)
-  joint = BatchNormalization()(joint)
+  # joint = Dropout(DP)(joint)
+  # joint = BatchNormalization()(joint)
 
 pred = Dense(len(LABELS), activation='softmax')(joint)
 

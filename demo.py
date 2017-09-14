@@ -1,11 +1,28 @@
+import os
+import itertools
+
+from keras.preprocessing.text import Tokenizer
+from keras.preprocessing.sequence import pad_sequences
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from torch.autograd import Variable
+from torch.autograd import Variable as _Variable
+
+from snli_rnn import get_data
 
 import h5py
+from tqdm import tqdm
 
 tfp = torch.from_numpy
+
+CUDA = True
+DATA_PARALLEL = False
+
+def Variable(var):
+    if CUDA:
+        return _Variable(var.cuda())
+    return var
 
 def fk2(f, key):
     return f[key][key]
@@ -44,7 +61,7 @@ class Model(nn.Module):
             self.embedding_1.weight.data.set_(tfp(embedding_1))
 
             self.time_distributed_1 = nn.Linear(300, 300)
-            self.time_distributed_1.weight.data.set_(tfp(time_distributed_1))
+            self.time_distributed_1.weight.data.set_(tfp(time_distributed_1.T))
             self.time_distributed_1.bias.data.set_(tfp(time_distributed_1b))
 
             self.dense_2 = nn.Linear(600, 600)
@@ -70,14 +87,14 @@ class Model(nn.Module):
         e = self.embedding_1(x)
         e = e.view(-1, ew)
 
-        zt = self.time_distributed_1(e)  # translate
+        zt = F.relu(self.time_distributed_1(e))  # translate
         zs = zt.view(b * 2, -1, ew).sum(1).squeeze()  # sum
         psum, hsum = zs[:b], zs[b:]
         z = torch.cat([psum, hsum], 1)
 
-        h2 = self.dense_2(z)
-        h3 = self.dense_3(h2)
-        h4 = self.dense_4(h3)
+        h2 = F.relu(self.dense_2(z))
+        h3 = F.relu(self.dense_3(h2))
+        h4 = F.relu(self.dense_4(h3))
         h5 = self.dense_5(h4)
 
         y = F.softmax(h5)
@@ -85,16 +102,77 @@ class Model(nn.Module):
         return y
 
 
-fn = 'noreg.h5'
-model = Model(fn)
-print(model)
-
+MAX_LEN = 42
 batch_size = 10
 seq_length = 30
+
+nli_data = get_data(os.path.expanduser('~/data/snli_1.0/snli_1.0_dev.jsonl'))
+tokenizer = Tokenizer(lower=False, filters='')
+tokenizer.fit_on_texts(nli_data[0] + nli_data[1])
+
+VOCAB = len(tokenizer.word_counts) + 1
+LABELS = {'contradiction': 0, 'neutral': 1, 'entailment': 2}
+to_seq = lambda X: pad_sequences(tokenizer.texts_to_sequences(X), maxlen=MAX_LEN)
+prepare_data = lambda data: (to_seq(data[0]), to_seq(data[1]), data[2])
+nli_data = prepare_data(nli_data)
+
+fn = 'noreg.h5'
+model = Model(fn)
+if CUDA:
+    model.cuda()
+    if DATA_PARALLEL:
+        model = torch.nn.DataParallel(model, device_ids=[0, 1])
+print(model)
 
 fake_p = Variable(torch.arange(0, batch_size * seq_length).view(batch_size, seq_length).long())
 fake_h = Variable(torch.arange(0, batch_size * seq_length).view(batch_size, seq_length).long())
 
 out = model(fake_p, fake_h)
 print(out)
+
+def brute_force_iterator(nli_data, batch_size):
+    prems = nli_data[0]
+    hyps = nli_data[1]
+
+    pairs = list(itertools.product(range(prems.shape[0]), range(hyps.shape[0])))
+
+    size = prems.shape[0] * hyps.shape[0]
+    num_batches = size // batch_size
+    remainder = size % num_batches
+
+    def _it():
+        for i in range(num_batches):
+            prem_index, hyp_index = zip(*pairs[i*batch_size:(i+1)*batch_size])
+            prem_batch = Variable(tfp(prems[list(prem_index)]).long())
+            hyp_batch = Variable(tfp(hyps[list(hyp_index)]).long())
+            yield (prem_batch, hyp_batch)
+
+    return size, num_batches, remainder, _it
+
+
+outfn = 'out.txt'
+SAVE_EVERY = 10000
+buffer = []
+
+
+batch_size = 100
+size, num_batches, remainder, iterator = brute_force_iterator(nli_data, batch_size)
+print("Skipping {} items.".format(remainder))
+
+with open(outfn, 'w') as f:
+    f.write('{}\n'.format(num_batches * batch_size))
+
+for i, (prem_batch, hyp_batch) in enumerate(tqdm(iterator(), total=num_batches)):
+    out = model(prem_batch, hyp_batch)
+
+    buffer.append(out.data.cpu())
+
+    if i % SAVE_EVERY == 0:
+        with open(outfn, 'a') as f:
+            for out in buffer:
+                for preds in out.tolist():
+                    preds = ' '.join(map(str, preds))
+                    f.write('{}\n'.format(preds))
+            del buffer
+            buffer = []
 

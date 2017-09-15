@@ -12,6 +12,7 @@ from torch.autograd import Variable as _Variable
 from snli_rnn import get_data
 
 import h5py
+import numpy as np
 from tqdm import tqdm
 
 tfp = torch.from_numpy
@@ -106,29 +107,37 @@ MAX_LEN = 42
 batch_size = 10
 seq_length = 30
 
-nli_data = get_data(os.path.expanduser('~/data/snli_1.0/snli_1.0_dev.jsonl'))
-tokenizer = Tokenizer(lower=False, filters='')
-tokenizer.fit_on_texts(nli_data[0] + nli_data[1])
 
-VOCAB = len(tokenizer.word_counts) + 1
-LABELS = {'contradiction': 0, 'neutral': 1, 'entailment': 2}
-to_seq = lambda X: pad_sequences(tokenizer.texts_to_sequences(X), maxlen=MAX_LEN)
-prepare_data = lambda data: (to_seq(data[0]), to_seq(data[1]), data[2])
-nli_data = prepare_data(nli_data)
+def get_nli_data():
+    nli_data = get_data(os.path.expanduser('~/data/snli_1.0/snli_1.0_dev.jsonl'))
+    tokenizer = Tokenizer(lower=False, filters='')
+    tokenizer.fit_on_texts(nli_data[0] + nli_data[1])
 
-fn = 'noreg.h5'
-model = Model(fn)
-if CUDA:
-    model.cuda()
-    if DATA_PARALLEL:
-        model = torch.nn.DataParallel(model, device_ids=[0, 1])
-print(model)
+    VOCAB = len(tokenizer.word_counts) + 1
+    LABELS = {'contradiction': 0, 'neutral': 1, 'entailment': 2}
+    to_seq = lambda X: pad_sequences(tokenizer.texts_to_sequences(X), maxlen=MAX_LEN)
+    prepare_data = lambda data: (to_seq(data[0]), to_seq(data[1]), data[2])
+    raw_data = nli_data
+    nli_data = prepare_data(nli_data)
 
-fake_p = Variable(torch.arange(0, batch_size * seq_length).view(batch_size, seq_length).long())
-fake_h = Variable(torch.arange(0, batch_size * seq_length).view(batch_size, seq_length).long())
+    return nli_data, raw_data
 
-out = model(fake_p, fake_h)
-print(out)
+def get_model():
+    fn = 'noreg.h5'
+    model = Model(fn)
+    if CUDA:
+        model.cuda()
+        if DATA_PARALLEL:
+            model = torch.nn.DataParallel(model, device_ids=[0, 1])
+    print(model)
+
+    fake_p = Variable(torch.arange(0, batch_size * seq_length).view(batch_size, seq_length).long())
+    fake_h = Variable(torch.arange(0, batch_size * seq_length).view(batch_size, seq_length).long())
+
+    out = model(fake_p, fake_h)
+    print(out)
+
+    return model
 
 def brute_force_iterator(nli_data, batch_size):
     prems = nli_data[0]
@@ -150,29 +159,101 @@ def brute_force_iterator(nli_data, batch_size):
     return size, num_batches, remainder, _it
 
 
-outfn = 'out.txt'
-SAVE_EVERY = 10000
-buffer = []
+def run():
+    nli_data, _ = get_nli_data()
+    model = get_model()
 
+    outfn = 'out-01.txt'
+    SAVE_EVERY = 10000
 
-batch_size = 100
-size, num_batches, remainder, iterator = brute_force_iterator(nli_data, batch_size)
-print("Skipping {} items.".format(remainder))
+    batch_size = 100
+    size, num_batches, remainder, iterator = brute_force_iterator(nli_data, batch_size)
+    print("Skipping {} items.".format(remainder))
 
-with open(outfn, 'w') as f:
-    f.write('{}\n'.format(num_batches * batch_size))
+    with open(outfn, 'w') as f:
+        f.write('{}\n'.format(num_batches * batch_size))
 
-for i, (prem_batch, hyp_batch) in enumerate(tqdm(iterator(), total=num_batches)):
-    out = model(prem_batch, hyp_batch)
+    buffer = []
+    for i, (prem_batch, hyp_batch) in enumerate(tqdm(iterator(), total=num_batches)):
+        out = model(prem_batch, hyp_batch)
 
-    buffer.append(out.data.cpu())
+        buffer.append(out.data.cpu())
 
-    if i % SAVE_EVERY == 0:
-        with open(outfn, 'a') as f:
-            for out in buffer:
-                for preds in out.tolist():
-                    preds = ' '.join(map(str, preds))
-                    f.write('{}\n'.format(preds))
-            del buffer
-            buffer = []
+        if i % SAVE_EVERY == 0:
+            with open(outfn, 'a') as f:
+                for out in buffer:
+                    for preds in out.tolist():
+                        preds = ' '.join(map(str, preds))
+                        f.write('{}\n'.format(preds))
+                del buffer
+                buffer = []
+
+def display():
+    print('Mode: DISPLAY')
+
+    nli_data, raw_data = get_nli_data()
+    ndata = nli_data[0].shape[0]
+
+    result_dict = dict()
+
+    def sda(dd, k, v):
+        dd.setdefault(k, []).append(v)
+
+    limit = 1000000
+    toprint = 10
+    outfn = 'out.txt'
+    with open(outfn) as f:
+        nlines = int(f.readline().strip())
+        for i, line in enumerate(f):
+            premi = i // ndata
+            hypi = i % ndata
+            scores = tuple(map(float, line.strip().split(' ')))
+            sda(result_dict, premi, (hypi, scores))
+            if i > limit:
+                break
+
+    def sort_hyps(hyps, entailment=2):
+        return list(reversed(sorted(hyps, key=lambda x: x[1][entailment])))
+
+    for premi, hyps in result_dict.items():
+        label = np.array(nli_data[2][premi]).argmax()
+        prem = raw_data[0][premi]
+        hyp = raw_data[1][premi]
+        hyp_score = hyps[premi][1]
+
+        print("Prm[{premi}]: {prem}\n"\
+              "Hyp[{label}][{hypi}]: {hyp}\n"\
+              "HypScore: {hyp_score}\n"\
+              .format(premi=premi, prem=prem,
+                      hypi=premi, hyp=hyp,
+                      hyp_score=hyp_score,
+                      label=label,
+                      )
+              )
+
+        sorted_hyps = sort_hyps(hyps, label)
+        for top_i in range(toprint):
+            top_hyp_tuple = sorted_hyps[top_i]
+            top_hyp_i = top_hyp_tuple[0]
+            top_hyp_score = top_hyp_tuple[1]
+            top_hyp = raw_data[1][top_hyp_i]
+
+            print("TopHyp[{top_i}][{top_hyp_i}]: {top_hyp}\n"\
+                  "TopHypScore: {top_hyp_score}\n"\
+                  .format(top_i=top_i,
+                          top_hyp_i=top_hyp_i, top_hyp=top_hyp,
+                          top_hyp_score=top_hyp_score)
+                  )
+
+if __name__ == '__main__':
+    import argparse
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--display', action='store_true')
+    options = parser.parse_args()
+
+    if options.display:
+        display()
+    else:
+        run()
 

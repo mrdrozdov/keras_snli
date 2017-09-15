@@ -1,0 +1,3471 @@
+Mode: DISPLAY
+59
+55
+Prm[0]: Two women are embracing while holding to go packages .
+Hyp[1][0]: The sisters are hugging goodbye while holding to go packages after just eating lunch .
+HypScore: (0.064331151545, 0.89356559515, 0.0421031527221)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (3.9636168367e-05, 0.999960303307, 7.88667853246e-10)
+
+TopHyp[1][4675]: A man in a blue shirt , khaki shorts , ball cap and blue socks and loafers walking behind a group of people walking down a stone walkway with a water bottle in his left hand .
+TopHypScore: (0.00018666611868, 0.999795258045, 1.81516224984e-05)
+
+TopHyp[2][6148]: A four piece male band which includes two saxophone players , a trumpet player and a trombone player are playing on an outdoor stage while two other males are dancing in front of the band .
+TopHypScore: (0.000641260587145, 0.999358355999, 3.46167581711e-07)
+
+TopHyp[3][6799]: Several male curling players sweeping their path on ice in front of a rock as a small crowd watches .
+TopHypScore: (0.00142891646829, 0.998548209667, 2.28796834563e-05)
+
+TopHyp[4][7574]: a boy kisses another boy
+TopHypScore: (0.00163364666514, 0.998365938663, 4.93269567414e-07)
+
+TopHyp[5][5811]: people are doing nothing
+TopHypScore: (0.00155805249233, 0.997933268547, 0.000508627854288)
+
+TopHyp[6][6759]: Four young people are lined up behind another and they are holding their arms out so it looks like the arms all belong to the first person , a red haired woman in a bikini top .
+TopHypScore: (0.00291520357132, 0.997084796429, 4.11739513595e-08)
+
+TopHyp[7][6760]: Four people are lined up one behind another and they are holding their arms out so it looks like the arms all belong to the first person , a red haired woman in a bikini top .
+TopHypScore: (0.0029162147548, 0.997083485126, 2.17637762034e-07)
+
+TopHyp[8][9571]: Football players are playing chess .
+TopHypScore: (0.00335212191567, 0.996541678905, 0.000106187777419)
+
+TopHyp[9][1825]: A sad girl in a green knit cap stands ready to push a sled , with a little boy behind her .
+TopHypScore: (0.00383226410486, 0.996161818504, 5.98173119215e-06)
+
+Prm[1]: Two women are embracing while holding to go packages .
+Hyp[2][1]: Two woman are holding packages .
+HypScore: (0.349922627211, 0.241531789303, 0.408545523882)
+
+TopHyp[0][7244]: The children are in the cafeteria .
+TopHypScore: (0.0134769193828, 0.00820951256901, 0.97831350565)
+
+TopHyp[1][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00451977364719, 0.0178076755255, 0.9776725173)
+
+TopHyp[2][4521]: The car enthusiasts cheer .
+TopHypScore: (0.000870736839715, 0.0328967534006, 0.966232478619)
+
+TopHyp[3][7930]: A woman walks near a building .
+TopHypScore: (0.0100562097505, 0.0272093117237, 0.962734520435)
+
+TopHyp[4][5620]: A person in a uniform
+TopHypScore: (0.00418918207288, 0.0334981568158, 0.96231263876)
+
+TopHyp[5][9261]: The people are near a building .
+TopHypScore: (0.0168957859278, 0.0241586137563, 0.958945631981)
+
+TopHyp[6][6001]: There are people near a beach .
+TopHypScore: (0.015817200765, 0.0268544889987, 0.957328259945)
+
+TopHyp[7][2204]: people are dressed in costume
+TopHypScore: (0.0120714213699, 0.0313871651888, 0.956541419029)
+
+TopHyp[8][2172]: The car is green .
+TopHypScore: (0.00491546373814, 0.0474416948855, 0.947642803192)
+
+TopHyp[9][2107]: People cheer on the bikers .
+TopHypScore: (0.00402426579967, 0.0554723218083, 0.94050347805)
+
+Prm[2]: Two women are embracing while holding to go packages .
+Hyp[0][2]: The men are fighting outside a deli .
+HypScore: (0.975404441357, 0.0227409955114, 0.0018545454368)
+
+TopHyp[0][2770]: A man throws a ball to a boy .
+TopHypScore: (0.999999523163, 4.53535108136e-07, 9.05105938115e-12)
+
+TopHyp[1][62]: The man stumbles stumbles in rollerskates .
+TopHypScore: (0.999999046326, 9.07180151444e-07, 1.41692806441e-14)
+
+TopHyp[2][2607]: A man carrying a surfboard walking towards the ocean .
+TopHypScore: (0.99999833107, 1.61935520282e-06, 1.45920930894e-09)
+
+TopHyp[3][6367]: Children are getting wet on purpose .
+TopHypScore: (0.999998211861, 1.82365431556e-06, 6.0977516439e-12)
+
+TopHyp[4][8260]: man in bear suit
+TopHypScore: (0.999997735023, 2.21316668103e-06, 2.34950690015e-08)
+
+TopHyp[5][3077]: Two men trying to dance for a song
+TopHypScore: (0.999994754791, 5.25619770997e-06, 1.24534299539e-10)
+
+TopHyp[6][7214]: a man on a bike does a jump on a bridge
+TopHypScore: (0.999992489815, 7.49698210711e-06, 4.34550848638e-08)
+
+TopHyp[7][1652]: Someone performing a jump with a bicycle .
+TopHypScore: (0.999992370605, 7.59980548537e-06, 3.6847325191e-10)
+
+TopHyp[8][6455]: Two men are selling bananas .
+TopHypScore: (0.999991774559, 8.19223532744e-06, 2.11917967619e-08)
+
+TopHyp[9][1212]: A man is on a water vehicle .
+TopHypScore: (0.999990940094, 8.56723272591e-06, 5.26643077592e-07)
+
+Prm[3]: Two young children in blue jerseys , one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink .
+Hyp[2][3]: Two kids in numbered jerseys wash their hands .
+HypScore: (0.590488255024, 0.269318878651, 0.140192851424)
+
+TopHyp[0][6001]: There are people near a beach .
+TopHypScore: (0.00539677264169, 0.0174894146621, 0.97711378336)
+
+TopHyp[1][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00467914296314, 0.0313936322927, 0.963927268982)
+
+TopHyp[2][4146]: people stand near pole
+TopHypScore: (0.000411140383221, 0.0392274782062, 0.960361421108)
+
+TopHyp[3][7244]: The children are in the cafeteria .
+TopHypScore: (0.0191191062331, 0.0283645410091, 0.952516376972)
+
+TopHyp[4][7930]: A woman walks near a building .
+TopHypScore: (0.0152402874082, 0.0408404357731, 0.943919301033)
+
+TopHyp[5][6944]: Three people in coats are standing in front of a building .
+TopHypScore: (0.0201305188239, 0.0380307212472, 0.941838741302)
+
+TopHyp[6][5620]: A person in a uniform
+TopHypScore: (0.0110658071935, 0.0499538518488, 0.938980340958)
+
+TopHyp[7][3624]: A man talks on a phone in a city .
+TopHypScore: (0.0517462231219, 0.0112644778565, 0.936989247799)
+
+TopHyp[8][1611]: A women in black at the beach .
+TopHypScore: (0.0209893770516, 0.0431417003274, 0.9358689785)
+
+TopHyp[9][2107]: People cheer on the bikers .
+TopHypScore: (0.0135119371116, 0.0589529797435, 0.927535116673)
+
+Prm[4]: Two young children in blue jerseys , one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink .
+Hyp[1][4]: Two kids at a ballgame wash their hands .
+HypScore: (0.479246765375, 0.373642504215, 0.147110775113)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (0.000122775818454, 0.999877214432, 5.65683926368e-08)
+
+TopHyp[1][7574]: a boy kisses another boy
+TopHypScore: (0.000410479842685, 0.999584376812, 5.15282636115e-06)
+
+TopHyp[2][6171]: A little boy is playing soccer outside .
+TopHypScore: (0.00237542018294, 0.997577488422, 4.71179919259e-05)
+
+TopHyp[3][8270]: The boy is playing soccer .
+TopHypScore: (0.00353245390579, 0.996429145336, 3.83865371987e-05)
+
+TopHyp[4][8601]: A young boy is playing hockey .
+TopHypScore: (0.00380170554854, 0.996096909046, 0.000101397956314)
+
+TopHyp[5][6264]: A woman , wearing a blue shirt , is wearing headphones and working with sound equipment .
+TopHypScore: (0.00267770234495, 0.99495357275, 0.00236875098199)
+
+TopHyp[6][8473]: A group of dancers is watching a movie
+TopHypScore: (0.00410239584744, 0.994416356087, 0.00148119195364)
+
+TopHyp[7][6274]: Two basketball players play basketball on an indoor court .
+TopHypScore: (0.00568914553151, 0.994283378124, 2.75187958323e-05)
+
+TopHyp[8][9571]: Football players are playing chess .
+TopHypScore: (0.00550812110305, 0.99426984787, 0.000221943104407)
+
+TopHyp[9][3215]: A soccer team are playing in soccer field
+TopHypScore: (0.00567858992144, 0.994241833687, 7.9667326645e-05)
+
+Prm[5]: Two young children in blue jerseys , one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink .
+Hyp[0][5]: Two kids in jackets walk to school .
+HypScore: (0.894698500633, 0.0803787335753, 0.0249228365719)
+
+TopHyp[0][5975]: A man with a lab coat works in a lab .
+TopHypScore: (0.999999880791, 1.28505462271e-07, 3.84385606678e-10)
+
+TopHyp[1][5141]: A girl and her father spend time together as he shaves
+TopHypScore: (0.999994516373, 5.50419872525e-06, 6.2654477162e-09)
+
+TopHyp[2][2821]: A man in a white robe is kicking at another man in a white robe and black belt .
+TopHypScore: (0.99999320507, 6.83122971168e-06, 5.22643039957e-09)
+
+TopHyp[3][7212]: a man on a bike in all black hangs appears to hang in the air over a bridge
+TopHypScore: (0.999992847443, 7.1164658948e-06, 2.46640041723e-08)
+
+TopHyp[4][2736]: A man is wearing a suit and glasses .
+TopHypScore: (0.999992489815, 7.0354590207e-06, 5.09791789227e-07)
+
+TopHyp[5][7561]: A man dressed in a suit throws a frisbee at the lake .
+TopHypScore: (0.999988675117, 1.10103737825e-05, 3.82399463206e-07)
+
+TopHyp[6][8272]: A girl walks by herself through her neighborhood .
+TopHypScore: (0.999984622002, 1.35752115966e-05, 1.77876745511e-06)
+
+TopHyp[7][5469]: A scantily clad stripper is on her phone waiting for her turn to dance .
+TopHypScore: (0.999983668327, 1.6373473045e-05, 8.58364312961e-09)
+
+TopHyp[8][5344]: The man on the motorcycle road across the course while people chase him .
+TopHypScore: (0.999980330467, 1.97192657652e-05, 6.35738750532e-09)
+
+TopHyp[9][3742]: A girl bends over backwards to do her gymnastics routine .
+TopHypScore: (0.999978542328, 2.14756491914e-05, 4.51832669057e-08)
+
+Prm[6]: A man selling donuts to a customer during a world exhibition event held in the city of Angeles
+Hyp[0][6]: A woman drinks her coffee in a small cafe .
+HypScore: (0.438129335642, 0.233812168241, 0.328058570623)
+
+TopHyp[0][6690]: A dog at the dog groomers , gets a bath , a blow dry , and a nice brushing .
+TopHypScore: (1.0, 3.00634468431e-08, 4.13346453432e-17)
+
+TopHyp[1][4105]: There are several people in this photo , and they are all making music .
+TopHypScore: (1.0, 3.53896965066e-08, 2.06704896255e-11)
+
+TopHyp[2][8866]: Four women are looking at their cellphones while the wait in a long line .
+TopHypScore: (0.999999761581, 2.81392487977e-07, 4.26127530614e-13)
+
+TopHyp[3][9464]: A lady in a white uniform is sitting on a bench outside a hospital , taking a break from work .
+TopHypScore: (0.999999642372, 3.21294066907e-07, 1.38973641622e-12)
+
+TopHyp[4][351]: Two women sitting at their workplace desks .
+TopHypScore: (0.999999642372, 3.71274410327e-07, 7.39180244791e-11)
+
+TopHyp[5][1770]: Male in brown leather jacket and black slacks , looking down at his giraffe
+TopHypScore: (0.999999523163, 4.21210813784e-07, 5.23798133621e-16)
+
+TopHyp[6][3414]: two pedestrians walk on a cobblestone road past a cafe in France
+TopHypScore: (0.999998569489, 1.39968165058e-06, 2.38670166963e-10)
+
+TopHyp[7][4921]: Two women have a conversation outdoors in front of a house .
+TopHypScore: (0.99999833107, 1.62411402016e-06, 1.43129408325e-09)
+
+TopHyp[8][9622]: A woman wearing lime green pants and shirt working on a sign .
+TopHypScore: (0.999998211861, 1.80534311767e-06, 1.03318516936e-11)
+
+TopHyp[9][9424]: A biker jumps over dirt hills in a white shirt .
+TopHypScore: (0.999997973442, 1.99554961e-06, 4.51864630782e-12)
+
+Prm[7]: A man selling donuts to a customer during a world exhibition event held in the city of Angeles
+Hyp[1][7]: A man selling donuts to a customer during a world exhibition event while people wait in line behind him .
+HypScore: (0.409560918808, 0.555637538433, 0.0348015762866)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (1.63366639754e-05, 0.999983668327, 2.64741756295e-10)
+
+TopHyp[1][7574]: a boy kisses another boy
+TopHypScore: (0.000188753678231, 0.999811112881, 1.10849640578e-07)
+
+TopHyp[2][932]: A man is playing an acoustic guitar on the sidewalk while a woman and a man walk down the sidewalk .
+TopHypScore: (0.000233054946875, 0.999766886234, 6.71912516736e-08)
+
+TopHyp[3][8270]: The boy is playing soccer .
+TopHypScore: (0.000948588654865, 0.999050319195, 1.0993419437e-06)
+
+TopHyp[4][8601]: A young boy is playing hockey .
+TopHypScore: (0.00133449479472, 0.998661994934, 3.42965904565e-06)
+
+TopHyp[5][273]: A boy rolls around an inflatable ride .
+TopHypScore: (0.0016151862219, 0.998383045197, 1.8408923097e-06)
+
+TopHyp[6][816]: A little boy is playing guitar on stage .
+TopHypScore: (0.00196372810751, 0.9980250597, 1.12342277134e-05)
+
+TopHyp[7][4325]: A little boy eats a red popsicle
+TopHypScore: (0.00234976503998, 0.997638344765, 1.1877162251e-05)
+
+TopHyp[8][6257]: A group of people are advertising a new type of rollerskate .
+TopHypScore: (0.00187377550174, 0.997550666332, 0.000575523881707)
+
+TopHyp[9][1194]: A boy is playing tennis .
+TopHypScore: (0.00250447634608, 0.997477352619, 1.82388048415e-05)
+
+Prm[8]: A man selling donuts to a customer during a world exhibition event held in the city of Angeles
+Hyp[2][8]: A man selling donuts to a customer .
+HypScore: (0.0213160775602, 0.62063652277, 0.358047366142)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (6.81114543113e-05, 0.00649824552238, 0.993433594704)
+
+TopHyp[1][2939]: Two people stand by a building .
+TopHypScore: (0.00100852281321, 0.0173979066312, 0.981593549252)
+
+TopHyp[2][7244]: The children are in the cafeteria .
+TopHypScore: (0.0118521461263, 0.00952988211066, 0.97861802578)
+
+TopHyp[3][4198]: A couple of people stand on stage .
+TopHypScore: (0.00117022183258, 0.0224027726799, 0.976426959038)
+
+TopHyp[4][6001]: There are people near a beach .
+TopHypScore: (0.0168882515281, 0.0161994434893, 0.966912269592)
+
+TopHyp[5][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00507654994726, 0.0281467083842, 0.966776788235)
+
+TopHyp[6][8043]: A man in blue and a woman in white are walking down a path .
+TopHypScore: (0.00433649774641, 0.0292297564447, 0.966433703899)
+
+TopHyp[7][5333]: A man skiing down a hill .
+TopHypScore: (0.00161130458582, 0.0327097401023, 0.965678989887)
+
+TopHyp[8][5575]: a couple are reunited
+TopHypScore: (0.00442033959553, 0.0328345373273, 0.962745130062)
+
+TopHyp[9][7367]: a kid walks with a flag
+TopHypScore: (0.0032723012846, 0.0348879024386, 0.961839795113)
+
+Prm[9]: Two young boys of opposing teams play football , while wearing full protection uniforms and helmets .
+Hyp[2][9]: boys play football
+HypScore: (0.195802465081, 0.519865393639, 0.284332126379)
+
+TopHyp[0][6001]: There are people near a beach .
+TopHypScore: (0.00554083008319, 0.0132882688195, 0.981170892715)
+
+TopHyp[1][4146]: people stand near pole
+TopHypScore: (0.000324273947626, 0.0217730719596, 0.977902591228)
+
+TopHyp[2][7930]: A woman walks near a building .
+TopHypScore: (0.00575496442616, 0.025349073112, 0.96889591217)
+
+TopHyp[3][2939]: Two people stand by a building .
+TopHypScore: (0.00176480982918, 0.0304914526641, 0.967743754387)
+
+TopHyp[4][8616]: A woman using a microscope .
+TopHypScore: (0.00580367166549, 0.0272689498961, 0.966927349567)
+
+TopHyp[5][7244]: The children are in the cafeteria .
+TopHypScore: (0.00959535129368, 0.0239531304687, 0.966451525688)
+
+TopHyp[6][5620]: A person in a uniform
+TopHypScore: (0.00670104986057, 0.0287028420717, 0.964596092701)
+
+TopHyp[7][2144]: A woman in a restaurant .
+TopHypScore: (0.00668390048668, 0.0344687961042, 0.958847284317)
+
+TopHyp[8][3624]: A man talks on a phone in a city .
+TopHypScore: (0.0387855097651, 0.00486983219162, 0.956344664097)
+
+TopHyp[9][7220]: A person in a shirt
+TopHypScore: (0.0120765650645, 0.034477096051, 0.953446388245)
+
+Prm[10]: Two young boys of opposing teams play football , while wearing full protection uniforms and helmets .
+Hyp[0][10]: dog eats out of bowl
+HypScore: (0.515719175339, 0.240028947592, 0.244251817465)
+
+TopHyp[0][5975]: A man with a lab coat works in a lab .
+TopHypScore: (0.999999642372, 3.82671061061e-07, 3.24592219769e-09)
+
+TopHyp[1][1494]: A man in a blue shirt is sitting in the rain .
+TopHypScore: (0.999993443489, 6.4078012656e-06, 1.43234828442e-07)
+
+TopHyp[2][5043]: Two men are sitting handcuffed in a police station .
+TopHypScore: (0.999990940094, 8.06285788713e-06, 9.43985412505e-07)
+
+TopHyp[3][2784]: a young girl putting a box on a shelf
+TopHypScore: (0.999985218048, 1.43632132676e-05, 4.63590453137e-07)
+
+TopHyp[4][7981]: Two elderly men having a conversation at the park .
+TopHypScore: (0.99998486042, 1.46309166666e-05, 5.20661217251e-07)
+
+TopHyp[5][4995]: A man with a microphone is standing in front of a screen .
+TopHypScore: (0.999984145164, 1.34999008878e-05, 2.36088726524e-06)
+
+TopHyp[6][3759]: four men chatting
+TopHypScore: (0.99998152256, 1.66915360751e-05, 1.84295015515e-06)
+
+TopHyp[7][4920]: A man is sad he broke the couch
+TopHypScore: (0.999979138374, 1.9823834009e-05, 1.06628147023e-06)
+
+TopHyp[8][2736]: A man is wearing a suit and glasses .
+TopHypScore: (0.999978899956, 1.93567648239e-05, 1.73896489741e-06)
+
+TopHyp[9][8122]: A small dog is sitting in the rain .
+TopHypScore: (0.999978065491, 2.18591012526e-05, 6.69065443049e-08)
+
+Prm[11]: Two young boys of opposing teams play football , while wearing full protection uniforms and helmets .
+Hyp[1][11]: boys scoring a touchdown
+HypScore: (0.634923100471, 0.167525976896, 0.197550967336)
+
+TopHyp[0][5811]: people are doing nothing
+TopHypScore: (0.00117458647583, 0.996968567371, 0.00185688294005)
+
+TopHyp[1][5735]: The dog has nothing in its mouth .
+TopHypScore: (0.00389824085869, 0.996080338955, 2.14762676478e-05)
+
+TopHyp[2][5185]: The woman has nothing in her hands .
+TopHypScore: (0.0054957694374, 0.994250416756, 0.000253867445281)
+
+TopHyp[3][274]: A boy is playing on an inflatable ride .
+TopHypScore: (0.00665875338018, 0.993236839771, 0.000104466620542)
+
+TopHyp[4][1150]: They are holding a notepad .
+TopHypScore: (0.00658714119345, 0.988748073578, 0.00466475449502)
+
+TopHyp[5][2671]: Two wrestlers are in the ring .
+TopHypScore: (0.011601421982, 0.988025248051, 0.000373369955923)
+
+TopHyp[6][8152]: Nobody has an outfit
+TopHypScore: (0.0125108500943, 0.974538505077, 0.0129506690428)
+
+TopHyp[7][9467]: The boy has nothing around his neck .
+TopHypScore: (0.0256487205625, 0.973275065422, 0.00107625627425)
+
+TopHyp[8][5179]: The taxi is in the garage .
+TopHypScore: (0.0160171445459, 0.972440898418, 0.0115419272333)
+
+TopHyp[9][2105]: the Dog is black
+TopHypScore: (0.00674550188705, 0.972121536732, 0.021133011207)
+
+Prm[12]: A man in a blue shirt standing in front of a garage-like structure painted with geometric designs .
+Hyp[1][12]: A man is repainting a garage
+HypScore: (0.0430056676269, 0.949541568756, 0.00745278736576)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (2.88083119813e-05, 0.999971151352, 8.9009077886e-11)
+
+TopHyp[1][7574]: a boy kisses another boy
+TopHypScore: (3.06084402837e-05, 0.999969363213, 1.00603543274e-08)
+
+TopHyp[2][9571]: Football players are playing chess .
+TopHypScore: (6.69358705636e-05, 0.999930262566, 2.75397133009e-06)
+
+TopHyp[3][4513]: Several boys are playing basketball inside against each other .
+TopHypScore: (0.0003205856774, 0.999679327011, 1.34214417358e-07)
+
+TopHyp[4][8601]: A young boy is playing hockey .
+TopHypScore: (0.000334103388013, 0.999665021896, 8.11665984202e-07)
+
+TopHyp[5][1194]: A boy is playing tennis .
+TopHypScore: (0.00043648443534, 0.999559819698, 3.68727592104e-06)
+
+TopHyp[6][7122]: The players are playing in Oakland .
+TopHypScore: (0.000478788249893, 0.99952018261, 1.01825139609e-06)
+
+TopHyp[7][816]: A little boy is playing guitar on stage .
+TopHypScore: (0.000616138160694, 0.999380707741, 3.11957387567e-06)
+
+TopHyp[8][8270]: The boy is playing soccer .
+TopHypScore: (0.00063249230152, 0.999367296696, 1.78917261451e-07)
+
+TopHyp[9][6801]: The man has nothing on his head .
+TopHypScore: (0.000612725154497, 0.999272048473, 0.00011514389189)
+
+Prm[13]: A man in a blue shirt standing in front of a garage-like structure painted with geometric designs .
+Hyp[2][13]: A man is wearing a blue shirt
+HypScore: (0.0505279414356, 0.322517722845, 0.626954376698)
+
+TopHyp[0][6001]: There are people near a beach .
+TopHypScore: (0.00105877569877, 0.00380243081599, 0.995138764381)
+
+TopHyp[1][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00137630011886, 0.0103696947917, 0.988253951073)
+
+TopHyp[2][6944]: Three people in coats are standing in front of a building .
+TopHypScore: (0.0016665016301, 0.0103756729513, 0.987957894802)
+
+TopHyp[3][4146]: people stand near pole
+TopHypScore: (0.000217124921619, 0.0134784122929, 0.986304461956)
+
+TopHyp[4][2669]: Two women are in a car with a man .
+TopHypScore: (0.0025098384358, 0.0123155452311, 0.98517459631)
+
+TopHyp[5][7930]: A woman walks near a building .
+TopHypScore: (0.00439044693485, 0.0120435478166, 0.983565986156)
+
+TopHyp[6][5620]: A person in a uniform
+TopHypScore: (0.00560028338805, 0.0127042392269, 0.981695413589)
+
+TopHyp[7][6992]: There are people standing in a room .
+TopHypScore: (0.00766840437427, 0.019645197317, 0.97268640995)
+
+TopHyp[8][2204]: people are dressed in costume
+TopHypScore: (0.00665580155328, 0.0212489292026, 0.972095310688)
+
+TopHyp[9][9632]: Women are outside in front of a stand .
+TopHypScore: (0.00320481043309, 0.0257479026914, 0.971047341824)
+
+Prm[14]: A man in a blue shirt standing in front of a garage-like structure painted with geometric designs .
+Hyp[0][14]: A man is wearing a black shirt
+HypScore: (0.0693334490061, 0.544976651669, 0.385689854622)
+
+TopHyp[0][6367]: Children are getting wet on purpose .
+TopHypScore: (1.0, 1.12281417497e-09, 1.35031101951e-15)
+
+TopHyp[1][5975]: A man with a lab coat works in a lab .
+TopHypScore: (1.0, 4.3687276019e-08, 1.36766859231e-13)
+
+TopHyp[2][2770]: A man throws a ball to a boy .
+TopHypScore: (1.0, 2.84785794946e-09, 1.56777582317e-14)
+
+TopHyp[3][8141]: A soccer ball bounces in a mud puddle on the street .
+TopHypScore: (0.999999880791, 8.27949975246e-08, 7.63611775808e-13)
+
+TopHyp[4][6339]: a woman talking on her cellphone to her husband
+TopHypScore: (0.999999880791, 1.29833878759e-07, 4.07085042758e-12)
+
+TopHyp[5][4548]: A man is trying to sell his bowling ball collection
+TopHypScore: (0.999999880791, 8.81054020851e-08, 4.4127349344e-12)
+
+TopHyp[6][7976]: a woman calls her kids
+TopHypScore: (0.999999761581, 2.55942865124e-07, 2.52654906545e-12)
+
+TopHyp[7][9302]: A woman is drinking from her water bottle with her feet in the water .
+TopHypScore: (0.999999642372, 3.40998667525e-07, 1.44682165554e-11)
+
+TopHyp[8][62]: The man stumbles stumbles in rollerskates .
+TopHypScore: (0.999999403954, 6.10096265063e-07, 1.39806030492e-16)
+
+TopHyp[9][7214]: a man on a bike does a jump on a bridge
+TopHypScore: (0.999999284744, 7.63334014664e-07, 1.27070876044e-09)
+
+Prm[15]: Under a blue sky with white clouds , a child reaches up to touch the propeller of a plane standing parked on a field of grass .
+Hyp[2][15]: A child is reaching to touch the propeller of a plane .
+HypScore: (0.307133823633, 0.353278338909, 0.339587837458)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (0.00107262912206, 0.0164740681648, 0.982453346252)
+
+TopHyp[1][3806]: People stand in front of a building
+TopHypScore: (0.00833713822067, 0.0274920295924, 0.96417081356)
+
+TopHyp[2][2939]: Two people stand by a building .
+TopHypScore: (0.00763964047655, 0.0287820659578, 0.963578283787)
+
+TopHyp[3][9632]: Women are outside in front of a stand .
+TopHypScore: (0.0110675618052, 0.029826881364, 0.959105610847)
+
+TopHyp[4][3624]: A man talks on a phone in a city .
+TopHypScore: (0.0380033031106, 0.0107708005235, 0.951225876808)
+
+TopHyp[5][6001]: There are people near a beach .
+TopHypScore: (0.0323561653495, 0.0278257783502, 0.939818024635)
+
+TopHyp[6][2669]: Two women are in a car with a man .
+TopHypScore: (0.0195973142982, 0.0427445620298, 0.937658071518)
+
+TopHyp[7][4198]: A couple of people stand on stage .
+TopHypScore: (0.021596936509, 0.0432016700506, 0.935201406479)
+
+TopHyp[8][3805]: Men and women stand in front of a building
+TopHypScore: (0.0263214074075, 0.0427302196622, 0.930948376656)
+
+TopHyp[9][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.0227161142975, 0.0475350171328, 0.929748892784)
+
+Prm[16]: Under a blue sky with white clouds , a child reaches up to touch the propeller of a plane standing parked on a field of grass .
+Hyp[1][16]: A child is reaching to touch the propeller out of curiosity .
+HypScore: (0.29285389185, 0.340169042349, 0.366977125406)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (0.000379359553335, 0.999620437622, 1.01934617192e-07)
+
+TopHyp[1][7574]: a boy kisses another boy
+TopHypScore: (0.00341738946736, 0.996564090252, 1.85210683412e-05)
+
+TopHyp[2][3215]: A soccer team are playing in soccer field
+TopHypScore: (0.0117536764592, 0.988070189953, 0.000176233923412)
+
+TopHyp[3][4513]: Several boys are playing basketball inside against each other .
+TopHypScore: (0.0149817494676, 0.984978199005, 4.00324861403e-05)
+
+TopHyp[4][1150]: They are holding a notepad .
+TopHypScore: (0.0173379126936, 0.977666795254, 0.0049953549169)
+
+TopHyp[5][9571]: Football players are playing chess .
+TopHypScore: (0.0231833588332, 0.975763440132, 0.00105318333954)
+
+TopHyp[6][5811]: people are doing nothing
+TopHypScore: (0.0238822605461, 0.972812652588, 0.00330506195314)
+
+TopHyp[7][932]: A man is playing an acoustic guitar on the sidewalk while a woman and a man walk down the sidewalk .
+TopHypScore: (0.0287020206451, 0.971291780472, 6.25074835625e-06)
+
+TopHyp[8][8270]: The boy is playing soccer .
+TopHypScore: (0.029249696061, 0.970580399036, 0.000169844468473)
+
+TopHyp[9][4325]: A little boy eats a red popsicle
+TopHypScore: (0.0357011258602, 0.963475346565, 0.000823507376481)
+
+Prm[17]: Under a blue sky with white clouds , a child reaches up to touch the propeller of a plane standing parked on a field of grass .
+Hyp[0][17]: A child is playing with a ball .
+HypScore: (0.624687194824, 0.279810458422, 0.0955023765564)
+
+TopHyp[0][6367]: Children are getting wet on purpose .
+TopHypScore: (0.999999761581, 2.70773313105e-07, 1.09541944959e-10)
+
+TopHyp[1][5975]: A man with a lab coat works in a lab .
+TopHypScore: (0.999999403954, 5.86475437103e-07, 6.52419007707e-10)
+
+TopHyp[2][5344]: The man on the motorcycle road across the course while people chase him .
+TopHypScore: (0.999995589256, 4.3982513489e-06, 7.29557525503e-11)
+
+TopHyp[3][5343]: The man on the motorcycle road across the course .
+TopHypScore: (0.999995470047, 4.50462221124e-06, 7.76828290583e-09)
+
+TopHyp[4][62]: The man stumbles stumbles in rollerskates .
+TopHypScore: (0.999988675117, 1.12793277367e-05, 2.26006409768e-12)
+
+TopHyp[5][4140]: A man waiting for someone while sitting on the grass .
+TopHypScore: (0.99998819828, 1.1576849829e-05, 1.96127217578e-07)
+
+TopHyp[6][3414]: two pedestrians walk on a cobblestone road past a cafe in France
+TopHypScore: (0.999985933304, 1.41251903187e-05, 4.04051725411e-08)
+
+TopHyp[7][6815]: The two kids fight over puzzle pieces .
+TopHypScore: (0.999964237213, 3.57165517926e-05, 1.37394522426e-08)
+
+TopHyp[8][7561]: A man dressed in a suit throws a frisbee at the lake .
+TopHypScore: (0.999963998795, 3.57907410944e-05, 2.32570954495e-07)
+
+TopHyp[9][351]: Two women sitting at their workplace desks .
+TopHypScore: (0.999957203865, 4.07031075156e-05, 2.11980591303e-06)
+
+Prm[18]: A woman is doing a cartwheel while wearing a bikini in the sand next to the beach .
+Hyp[2][18]: A woman is doing a cartwheel .
+HypScore: (0.0647986829281, 0.0922215953469, 0.842979669571)
+
+TopHyp[0][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00226464215666, 0.015134466812, 0.982600867748)
+
+TopHyp[1][4146]: people stand near pole
+TopHypScore: (0.000121412704175, 0.0327409021556, 0.967137694359)
+
+TopHyp[2][7930]: A woman walks near a building .
+TopHypScore: (0.00728421285748, 0.0318614840508, 0.960854351521)
+
+TopHyp[3][3624]: A man talks on a phone in a city .
+TopHypScore: (0.0361826010048, 0.00669538788497, 0.957122027874)
+
+TopHyp[4][6001]: There are people near a beach .
+TopHypScore: (0.0212130341679, 0.0243346318603, 0.954452335835)
+
+TopHyp[5][2204]: people are dressed in costume
+TopHypScore: (0.00948787480593, 0.038817435503, 0.951694667339)
+
+TopHyp[6][7244]: The children are in the cafeteria .
+TopHypScore: (0.0202609617263, 0.0321407094598, 0.947598397732)
+
+TopHyp[7][9261]: The people are near a building .
+TopHypScore: (0.0158029608428, 0.0380883067846, 0.94610875845)
+
+TopHyp[8][8616]: A woman using a microscope .
+TopHypScore: (0.0102030420676, 0.0454666949809, 0.944330334663)
+
+TopHyp[9][4630]: Women are holding hands .
+TopHypScore: (0.0240721479058, 0.036658488214, 0.93926936388)
+
+Prm[19]: A woman is doing a cartwheel while wearing a bikini in the sand next to the beach .
+Hyp[0][19]: A woman is fixing her home .
+HypScore: (0.410263478756, 0.36427205801, 0.225464478135)
+
+TopHyp[0][5975]: A man with a lab coat works in a lab .
+TopHypScore: (0.999998688698, 1.2873954347e-06, 4.94796981165e-10)
+
+TopHyp[1][1494]: A man in a blue shirt is sitting in the rain .
+TopHypScore: (0.99999833107, 1.67320501987e-06, 4.52100223924e-08)
+
+TopHyp[2][8122]: A small dog is sitting in the rain .
+TopHypScore: (0.999997973442, 2.07511857298e-06, 3.13112771266e-08)
+
+TopHyp[3][6367]: Children are getting wet on purpose .
+TopHypScore: (0.99998998642, 1.00636761999e-05, 3.86769727356e-10)
+
+TopHyp[4][351]: Two women sitting at their workplace desks .
+TopHypScore: (0.999987006187, 1.29726286104e-05, 8.13095102359e-09)
+
+TopHyp[5][2454]: A man 's feet are not touching the ground .
+TopHypScore: (0.999950647354, 4.93339757668e-05, 2.26606005072e-08)
+
+TopHyp[6][9787]: A lone child makes a snow angel in the snow
+TopHypScore: (0.999938011169, 6.12889489275e-05, 7.69043424498e-07)
+
+TopHyp[7][1652]: Someone performing a jump with a bicycle .
+TopHypScore: (0.999926805496, 7.32358457753e-05, 7.62989671443e-09)
+
+TopHyp[8][3759]: four men chatting
+TopHypScore: (0.999911308289, 8.8443630375e-05, 2.27087852522e-07)
+
+TopHyp[9][8209]: A college aged woman is sitting by a spring .
+TopHypScore: (0.999879002571, 0.000114219379611, 6.77778598401e-06)
+
+Prm[20]: A woman is doing a cartwheel while wearing a bikini in the sand next to the beach .
+Hyp[0][20]: A woman is doing a cartwheel and falls on her head .
+HypScore: (0.214891135693, 0.652823865414, 0.132284983993)
+
+TopHyp[0][5975]: A man with a lab coat works in a lab .
+TopHypScore: (0.999998688698, 1.2873954347e-06, 4.94796981165e-10)
+
+TopHyp[1][1494]: A man in a blue shirt is sitting in the rain .
+TopHypScore: (0.99999833107, 1.67320501987e-06, 4.52100223924e-08)
+
+TopHyp[2][8122]: A small dog is sitting in the rain .
+TopHypScore: (0.999997973442, 2.07511857298e-06, 3.13112771266e-08)
+
+TopHyp[3][6367]: Children are getting wet on purpose .
+TopHypScore: (0.99998998642, 1.00636761999e-05, 3.86769727356e-10)
+
+TopHyp[4][351]: Two women sitting at their workplace desks .
+TopHypScore: (0.999987006187, 1.29726286104e-05, 8.13095102359e-09)
+
+TopHyp[5][2454]: A man 's feet are not touching the ground .
+TopHypScore: (0.999950647354, 4.93339757668e-05, 2.26606005072e-08)
+
+TopHyp[6][9787]: A lone child makes a snow angel in the snow
+TopHypScore: (0.999938011169, 6.12889489275e-05, 7.69043424498e-07)
+
+TopHyp[7][1652]: Someone performing a jump with a bicycle .
+TopHypScore: (0.999926805496, 7.32358457753e-05, 7.62989671443e-09)
+
+TopHyp[8][3759]: four men chatting
+TopHypScore: (0.999911308289, 8.8443630375e-05, 2.27087852522e-07)
+
+TopHyp[9][8209]: A college aged woman is sitting by a spring .
+TopHypScore: (0.999879002571, 0.000114219379611, 6.77778598401e-06)
+
+Prm[21]: Two men on bicycles competing in a race .
+Hyp[2][21]: People are riding bikes .
+HypScore: (0.0732981041074, 0.0981417521834, 0.828560113907)
+
+TopHyp[0][7244]: The children are in the cafeteria .
+TopHypScore: (0.00116440106649, 0.00526071200147, 0.993574917316)
+
+TopHyp[1][5575]: a couple are reunited
+TopHypScore: (0.000959997356404, 0.00846172869205, 0.990578234196)
+
+TopHyp[2][3624]: A man talks on a phone in a city .
+TopHypScore: (0.0141754401848, 0.00119024631567, 0.984634339809)
+
+TopHyp[3][7799]: a man in green
+TopHypScore: (0.0049007171765, 0.0155918328092, 0.979507505894)
+
+TopHyp[4][2204]: people are dressed in costume
+TopHypScore: (0.00337373069488, 0.0175900515169, 0.979036152363)
+
+TopHyp[5][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00298849330284, 0.0239668190479, 0.973044753075)
+
+TopHyp[6][7930]: A woman walks near a building .
+TopHypScore: (0.0061947000213, 0.0227527096868, 0.971052646637)
+
+TopHyp[7][4521]: The car enthusiasts cheer .
+TopHypScore: (0.000379966251785, 0.0287034008652, 0.970916628838)
+
+TopHyp[8][8808]: Two people are drinking .
+TopHypScore: (0.00815436150879, 0.021202955395, 0.970642745495)
+
+TopHyp[9][2177]: The man is near the car .
+TopHypScore: (0.00259459577501, 0.0301101934165, 0.96729528904)
+
+Prm[22]: Two men on bicycles competing in a race .
+Hyp[1][22]: Men are riding bicycles on the street .
+HypScore: (0.304046571255, 0.628654718399, 0.0672987103462)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (2.08704000215e-06, 0.999997854233, 2.0458279168e-12)
+
+TopHyp[1][932]: A man is playing an acoustic guitar on the sidewalk while a woman and a man walk down the sidewalk .
+TopHypScore: (1.05391063698e-05, 0.999989509583, 1.2443643449e-08)
+
+TopHyp[2][9571]: Football players are playing chess .
+TopHypScore: (6.19578568148e-05, 0.999937415123, 5.95612789311e-07)
+
+TopHyp[3][7574]: a boy kisses another boy
+TopHypScore: (8.83719112608e-05, 0.999911665916, 2.77456257969e-09)
+
+TopHyp[4][6799]: Several male curling players sweeping their path on ice in front of a rock as a small crowd watches .
+TopHypScore: (0.000142744698678, 0.999854326248, 2.89577133117e-06)
+
+TopHyp[5][4513]: Several boys are playing basketball inside against each other .
+TopHypScore: (0.000380479294108, 0.999619483948, 3.77749174163e-08)
+
+TopHyp[6][8601]: A young boy is playing hockey .
+TopHypScore: (0.000394597271224, 0.999605000019, 4.82712948724e-07)
+
+TopHyp[7][6171]: A little boy is playing soccer outside .
+TopHypScore: (0.000446930876933, 0.99955290556, 1.05341335654e-07)
+
+TopHyp[8][8270]: The boy is playing soccer .
+TopHypScore: (0.00052035326371, 0.999479591846, 1.05003024942e-07)
+
+TopHyp[9][1957]: A festival displays two men dressed up in red makeup and costume , while an older man has some cream on his face .
+TopHypScore: (0.000618760299403, 0.999381184578, 3.7925979024e-10)
+
+Prm[23]: Two men on bicycles competing in a race .
+Hyp[0][23]: A few people are catching fish .
+HypScore: (0.990510642529, 0.0091995364055, 0.000289777992293)
+
+TopHyp[0][6690]: A dog at the dog groomers , gets a bath , a blow dry , and a nice brushing .
+TopHypScore: (1.0, 5.03648500683e-08, 2.98822536618e-17)
+
+TopHyp[1][351]: Two women sitting at their workplace desks .
+TopHypScore: (1.0, 4.83214463998e-08, 2.24643567637e-12)
+
+TopHyp[2][3936]: The woman is sitting alone , silent , reading .
+TopHypScore: (0.999999761581, 2.24088196887e-07, 4.35096359983e-12)
+
+TopHyp[3][1770]: Male in brown leather jacket and black slacks , looking down at his giraffe
+TopHypScore: (0.999999761581, 2.25613248972e-07, 2.89168471984e-16)
+
+TopHyp[4][9464]: A lady in a white uniform is sitting on a bench outside a hospital , taking a break from work .
+TopHypScore: (0.999999523163, 4.89431101869e-07, 2.30546734481e-10)
+
+TopHyp[5][8024]: The women are Spanish
+TopHypScore: (0.999998569489, 1.47815126184e-06, 2.13336195931e-10)
+
+TopHyp[6][9622]: A woman wearing lime green pants and shirt working on a sign .
+TopHypScore: (0.999998450279, 1.51557151185e-06, 4.70390566776e-12)
+
+TopHyp[7][4626]: Two women walking around a pond , talking .
+TopHypScore: (0.99999833107, 1.64699588368e-06, 4.84364527653e-11)
+
+TopHyp[8][1769]: Male in brown leather jacket and black slacks , looking down at his phone
+TopHypScore: (0.999998211861, 1.83768588613e-06, 9.21907298765e-13)
+
+TopHyp[9][6264]: A woman , wearing a blue shirt , is wearing headphones and working with sound equipment .
+TopHypScore: (0.999997615814, 2.35227548728e-06, 3.93152380641e-16)
+
+Prm[24]: A young boy in a field of flowers carrying a ball
+Hyp[1][24]: boy leaving baseball game
+HypScore: (0.691394627094, 0.244628638029, 0.0639767721295)
+
+TopHyp[0][4675]: A man in a blue shirt , khaki shorts , ball cap and blue socks and loafers walking behind a group of people walking down a stone walkway with a water bottle in his left hand .
+TopHypScore: (0.000168669401319, 0.999828934669, 2.39014161707e-06)
+
+TopHyp[1][6593]: A man washes pants
+TopHypScore: (0.000868305854965, 0.998814225197, 0.000317411846481)
+
+TopHyp[2][274]: A boy is playing on an inflatable ride .
+TopHypScore: (0.0012768630404, 0.998723089695, 4.92098948257e-08)
+
+TopHyp[3][3977]: The women is holding a dog .
+TopHypScore: (0.00282955984585, 0.996943056583, 0.000227353375521)
+
+TopHyp[4][5811]: people are doing nothing
+TopHypScore: (0.00451689073816, 0.995001852512, 0.000481175055029)
+
+TopHyp[5][7574]: a boy kisses another boy
+TopHypScore: (0.00507071986794, 0.994916319847, 1.29849486257e-05)
+
+TopHyp[6][4261]: The men and women are young .
+TopHypScore: (0.00411880435422, 0.994717657566, 0.00116352341138)
+
+TopHyp[7][2899]: The girl is wearing a black shirt and pants .
+TopHypScore: (0.00525019876659, 0.994654655457, 9.50997709879e-05)
+
+TopHyp[8][2659]: The women are celebrating .
+TopHypScore: (0.00518841389567, 0.994282960892, 0.000528689182829)
+
+TopHyp[9][5222]: The man is a runner
+TopHypScore: (0.00749894976616, 0.992494463921, 6.64529079586e-06)
+
+Prm[25]: A young boy in a field of flowers carrying a ball
+Hyp[2][25]: boy in field
+HypScore: (0.123772613704, 0.0422429554164, 0.833984434605)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (2.98628874589e-05, 0.00406079925597, 0.995909333229)
+
+TopHyp[1][3624]: A man talks on a phone in a city .
+TopHypScore: (0.00430373102427, 0.000665153376758, 0.995031118393)
+
+TopHyp[2][7975]: a woman talks on her phone
+TopHypScore: (0.0121334725991, 0.00100294791628, 0.986863613129)
+
+TopHyp[3][2939]: Two people stand by a building .
+TopHypScore: (0.000967604049947, 0.0156038831919, 0.983428537846)
+
+TopHyp[4][8719]: The man is using his phone .
+TopHypScore: (0.0158875267953, 0.00496617145836, 0.979146301746)
+
+TopHyp[5][4198]: A couple of people stand on stage .
+TopHypScore: (0.00193118129391, 0.0227949172258, 0.975273907185)
+
+TopHyp[6][3831]: a woman is walking down the street
+TopHypScore: (0.00382642052136, 0.0243460405618, 0.971827507019)
+
+TopHyp[7][5212]: A woman walking down the street .
+TopHypScore: (0.00198919768445, 0.027871478349, 0.97013926506)
+
+TopHyp[8][7244]: The children are in the cafeteria .
+TopHypScore: (0.02610068582, 0.00587867526338, 0.968020617962)
+
+TopHyp[9][5467]: A woman is on her phone .
+TopHypScore: (0.0303818546236, 0.0022666065488, 0.967351615429)
+
+Prm[26]: A young boy in a field of flowers carrying a ball
+Hyp[0][26]: dog in pool
+HypScore: (0.22480930388, 0.101364672184, 0.673825979233)
+
+TopHyp[0][8529]: The man and woman are standing next to a road .
+TopHypScore: (1.0, 1.61314144265e-08, 7.17584394683e-11)
+
+TopHyp[1][8260]: man in bear suit
+TopHypScore: (1.0, 1.82118444769e-08, 3.3106281605e-11)
+
+TopHyp[2][5338]: Some people are enjoying themselves at a musical .
+TopHypScore: (1.0, 1.35107320887e-08, 7.666382042e-14)
+
+TopHyp[3][3414]: two pedestrians walk on a cobblestone road past a cafe in France
+TopHypScore: (1.0, 9.32221411176e-09, 7.99778038935e-12)
+
+TopHyp[4][3413]: two pedestrians walk on a cobblestone road past a cafe
+TopHypScore: (1.0, 4.57074378346e-08, 2.02134680521e-11)
+
+TopHyp[5][2203]: a man in a suit sits alone
+TopHypScore: (1.0, 2.85449957005e-08, 1.33484618758e-12)
+
+TopHyp[6][62]: The man stumbles stumbles in rollerskates .
+TopHypScore: (1.0, 3.91084872819e-11, 1.76915256838e-20)
+
+TopHyp[7][9459]: Lady give a speech in the House of Representatives .
+TopHypScore: (0.999999880791, 1.18846877228e-07, 2.0766763309e-10)
+
+TopHyp[8][7663]: The hockey sticks are a natural color .
+TopHypScore: (0.999999880791, 1.43056638535e-07, 1.80935752492e-11)
+
+TopHyp[9][803]: The jumping lady in slacks also has her hand raised .
+TopHypScore: (0.999999880791, 1.04712597704e-07, 2.92477562894e-14)
+
+Prm[27]: Families waiting in line at an amusement park for their turn to ride .
+Hyp[0][27]: The restaurant is very bad .
+HypScore: (0.896408438683, 0.102881059051, 0.000710514897946)
+
+TopHyp[0][6690]: A dog at the dog groomers , gets a bath , a blow dry , and a nice brushing .
+TopHypScore: (1.0, 3.4343027977e-08, 3.07983619804e-18)
+
+TopHyp[1][6367]: Children are getting wet on purpose .
+TopHypScore: (0.999999880791, 1.00561571514e-07, 4.52680731441e-12)
+
+TopHyp[2][5083]: A police officer is sitting in his police car , racing towards a criminal .
+TopHypScore: (0.999999761581, 2.30121003142e-07, 1.08193481951e-10)
+
+TopHyp[3][4105]: There are several people in this photo , and they are all making music .
+TopHypScore: (0.999999761581, 1.82732264875e-07, 7.42437666901e-10)
+
+TopHyp[4][1058]: Two women compete in a speed skating race .
+TopHypScore: (0.999999761581, 2.83983524696e-07, 3.67681024516e-11)
+
+TopHyp[5][7864]: A man searches for a clock , wondering what time it is .
+TopHypScore: (0.999999642372, 3.61097676205e-07, 1.15013402448e-12)
+
+TopHyp[6][1770]: Male in brown leather jacket and black slacks , looking down at his giraffe
+TopHypScore: (0.999999403954, 6.1708777821e-07, 6.48133094097e-16)
+
+TopHyp[7][351]: Two women sitting at their workplace desks .
+TopHypScore: (0.999999403954, 5.38597475952e-07, 3.06615483003e-10)
+
+TopHyp[8][6763]: A boy wears a blue shirt and sings in the rain .
+TopHypScore: (0.999999165535, 7.7674980048e-07, 4.00723482175e-10)
+
+TopHyp[9][4864]: A women is is confused about her writing .
+TopHypScore: (0.999999046326, 9.11998029096e-07, 5.28772060859e-11)
+
+Prm[28]: Families waiting in line at an amusement park for their turn to ride .
+Hyp[0][28]: People are waiting in line at a restaurant .
+HypScore: (0.0515219382942, 0.104619130492, 0.843858897686)
+
+TopHyp[0][6690]: A dog at the dog groomers , gets a bath , a blow dry , and a nice brushing .
+TopHypScore: (1.0, 3.4343027977e-08, 3.07983619804e-18)
+
+TopHyp[1][6367]: Children are getting wet on purpose .
+TopHypScore: (0.999999880791, 1.00561571514e-07, 4.52680731441e-12)
+
+TopHyp[2][5083]: A police officer is sitting in his police car , racing towards a criminal .
+TopHypScore: (0.999999761581, 2.30121003142e-07, 1.08193481951e-10)
+
+TopHyp[3][4105]: There are several people in this photo , and they are all making music .
+TopHypScore: (0.999999761581, 1.82732264875e-07, 7.42437666901e-10)
+
+TopHyp[4][1058]: Two women compete in a speed skating race .
+TopHypScore: (0.999999761581, 2.83983524696e-07, 3.67681024516e-11)
+
+TopHyp[5][7864]: A man searches for a clock , wondering what time it is .
+TopHypScore: (0.999999642372, 3.61097676205e-07, 1.15013402448e-12)
+
+TopHyp[6][1770]: Male in brown leather jacket and black slacks , looking down at his giraffe
+TopHypScore: (0.999999403954, 6.1708777821e-07, 6.48133094097e-16)
+
+TopHyp[7][351]: Two women sitting at their workplace desks .
+TopHypScore: (0.999999403954, 5.38597475952e-07, 3.06615483003e-10)
+
+TopHyp[8][6763]: A boy wears a blue shirt and sings in the rain .
+TopHypScore: (0.999999165535, 7.7674980048e-07, 4.00723482175e-10)
+
+TopHyp[9][4864]: A women is is confused about her writing .
+TopHypScore: (0.999999046326, 9.11998029096e-07, 5.28772060859e-11)
+
+Prm[29]: Families waiting in line at an amusement park for their turn to ride .
+Hyp[0][29]: People are waiting to see a movie .
+HypScore: (0.18000921607, 0.757222235203, 0.0627685040236)
+
+TopHyp[0][6690]: A dog at the dog groomers , gets a bath , a blow dry , and a nice brushing .
+TopHypScore: (1.0, 3.4343027977e-08, 3.07983619804e-18)
+
+TopHyp[1][6367]: Children are getting wet on purpose .
+TopHypScore: (0.999999880791, 1.00561571514e-07, 4.52680731441e-12)
+
+TopHyp[2][5083]: A police officer is sitting in his police car , racing towards a criminal .
+TopHypScore: (0.999999761581, 2.30121003142e-07, 1.08193481951e-10)
+
+TopHyp[3][4105]: There are several people in this photo , and they are all making music .
+TopHypScore: (0.999999761581, 1.82732264875e-07, 7.42437666901e-10)
+
+TopHyp[4][1058]: Two women compete in a speed skating race .
+TopHypScore: (0.999999761581, 2.83983524696e-07, 3.67681024516e-11)
+
+TopHyp[5][7864]: A man searches for a clock , wondering what time it is .
+TopHypScore: (0.999999642372, 3.61097676205e-07, 1.15013402448e-12)
+
+TopHyp[6][1770]: Male in brown leather jacket and black slacks , looking down at his giraffe
+TopHypScore: (0.999999403954, 6.1708777821e-07, 6.48133094097e-16)
+
+TopHyp[7][351]: Two women sitting at their workplace desks .
+TopHypScore: (0.999999403954, 5.38597475952e-07, 3.06615483003e-10)
+
+TopHyp[8][6763]: A boy wears a blue shirt and sings in the rain .
+TopHypScore: (0.999999165535, 7.7674980048e-07, 4.00723482175e-10)
+
+TopHyp[9][4864]: A women is is confused about her writing .
+TopHypScore: (0.999999046326, 9.11998029096e-07, 5.28772060859e-11)
+
+Prm[30]: A senior is waiting at the window of a restaurant that serves sandwiches .
+Hyp[2][30]: A person waits to be served his food .
+HypScore: (0.156230852008, 0.749685287476, 0.0940838977695)
+
+TopHyp[0][7244]: The children are in the cafeteria .
+TopHypScore: (0.00156623765361, 0.00568221788853, 0.992751598358)
+
+TopHyp[1][4146]: people stand near pole
+TopHypScore: (4.95330505146e-06, 0.0100242095068, 0.989970862865)
+
+TopHyp[2][3624]: A man talks on a phone in a city .
+TopHypScore: (0.00989650562406, 0.00116998248268, 0.988933563232)
+
+TopHyp[3][3307]: A man with gloves and a flashlight .
+TopHypScore: (0.00291445525363, 0.0083337854594, 0.988751709461)
+
+TopHyp[4][6001]: There are people near a beach .
+TopHypScore: (0.00307563086972, 0.00978209357709, 0.987142324448)
+
+TopHyp[5][5575]: a couple are reunited
+TopHypScore: (0.000446210819064, 0.0136510496959, 0.985902786255)
+
+TopHyp[6][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.000414291862398, 0.014069496654, 0.985516250134)
+
+TopHyp[7][7930]: A woman walks near a building .
+TopHypScore: (0.00104391761124, 0.0165468789637, 0.982409119606)
+
+TopHyp[8][2204]: people are dressed in costume
+TopHypScore: (0.00122405949514, 0.020276511088, 0.978499412537)
+
+TopHyp[9][8808]: Two people are drinking .
+TopHypScore: (0.00491074798629, 0.0172372460365, 0.977851986885)
+
+Prm[31]: A senior is waiting at the window of a restaurant that serves sandwiches .
+Hyp[0][31]: A man is waiting in line for the bus .
+HypScore: (0.627459526062, 0.34334641695, 0.0291940644383)
+
+TopHyp[0][6690]: A dog at the dog groomers , gets a bath , a blow dry , and a nice brushing .
+TopHypScore: (1.0, 1.63366404848e-08, 9.54809617986e-19)
+
+TopHyp[1][351]: Two women sitting at their workplace desks .
+TopHypScore: (1.0, 2.47033522527e-08, 1.08616084876e-11)
+
+TopHyp[2][1770]: Male in brown leather jacket and black slacks , looking down at his giraffe
+TopHypScore: (0.999999761581, 2.64158302343e-07, 2.03257612678e-16)
+
+TopHyp[3][1494]: A man in a blue shirt is sitting in the rain .
+TopHypScore: (0.999999761581, 2.21833445835e-07, 1.17121068399e-09)
+
+TopHyp[4][1058]: Two women compete in a speed skating race .
+TopHypScore: (0.999999403954, 5.90498302699e-07, 4.57340242066e-11)
+
+TopHyp[5][9787]: A lone child makes a snow angel in the snow
+TopHypScore: (0.999998569489, 1.39931466947e-06, 1.39565548007e-09)
+
+TopHyp[6][8354]: Some people who are visible are not African American .
+TopHypScore: (0.99999833107, 1.72669365384e-06, 1.6026953098e-09)
+
+TopHyp[7][8122]: A small dog is sitting in the rain .
+TopHypScore: (0.99999833107, 1.67252062511e-06, 3.59957752494e-09)
+
+TopHyp[8][6934]: Male Bikers talking in the busy road while its raining .
+TopHypScore: (0.99999833107, 1.6318380176e-06, 2.82608297875e-10)
+
+TopHyp[9][4767]: women are outdoors
+TopHypScore: (0.999998211861, 1.77480285402e-06, 2.17549835924e-08)
+
+Prm[32]: A senior is waiting at the window of a restaurant that serves sandwiches .
+Hyp[1][32]: A man is looking to order a grilled cheese sandwich .
+HypScore: (0.654927968979, 0.311247229576, 0.0338247567415)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (5.12304677613e-06, 0.999994874001, 3.64060448454e-10)
+
+TopHyp[1][7574]: a boy kisses another boy
+TopHypScore: (5.08318189532e-05, 0.999949216843, 5.68738833806e-08)
+
+TopHyp[2][5811]: people are doing nothing
+TopHypScore: (8.90597002581e-05, 0.999809086323, 0.000101850993815)
+
+TopHyp[3][5185]: The woman has nothing in her hands .
+TopHypScore: (0.000272751436569, 0.99972397089, 3.15949114338e-06)
+
+TopHyp[4][6171]: A little boy is playing soccer outside .
+TopHypScore: (0.000295671983622, 0.999703347683, 1.00179613582e-06)
+
+TopHyp[5][1150]: They are holding a notepad .
+TopHypScore: (0.000251779682003, 0.999669790268, 7.84274889156e-05)
+
+TopHyp[6][2671]: Two wrestlers are in the ring .
+TopHypScore: (0.000430787535151, 0.999554336071, 1.49381139636e-05)
+
+TopHyp[7][6801]: The man has nothing on his head .
+TopHypScore: (0.000465226825327, 0.99950671196, 2.79548476101e-05)
+
+TopHyp[8][9223]: A man is entertaining a crowd by playing classical music on the sidewalk
+TopHypScore: (0.000508363300469, 0.999491453171, 1.54913891492e-07)
+
+TopHyp[9][9571]: Football players are playing chess .
+TopHypScore: (0.000587477989029, 0.999402046204, 1.04836690298e-05)
+
+Prm[33]: Man in a black suit , white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him .
+Hyp[2][33]: A person in a suit
+HypScore: (0.317767590284, 0.0733901560307, 0.608842253685)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (4.39603645646e-05, 0.017151273787, 0.982804715633)
+
+TopHyp[1][7930]: A woman walks near a building .
+TopHypScore: (0.00529619585723, 0.0145027432591, 0.98020106554)
+
+TopHyp[2][7244]: The children are in the cafeteria .
+TopHypScore: (0.0088118519634, 0.01240157336, 0.978786587715)
+
+TopHyp[3][8616]: A woman using a microscope .
+TopHypScore: (0.00131259858608, 0.0239996109158, 0.974687814713)
+
+TopHyp[4][6001]: There are people near a beach .
+TopHypScore: (0.0221517998725, 0.00982248783112, 0.968025743961)
+
+TopHyp[5][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.0019179766532, 0.0307624973357, 0.967319488525)
+
+TopHyp[6][2144]: A woman in a restaurant .
+TopHypScore: (0.0148380296305, 0.021082021296, 0.964079916477)
+
+TopHyp[7][5620]: A person in a uniform
+TopHypScore: (0.00476295780391, 0.0328301787376, 0.962406873703)
+
+TopHyp[8][2204]: people are dressed in costume
+TopHypScore: (0.00371541758068, 0.0339350067079, 0.962349593639)
+
+TopHyp[9][9261]: The people are near a building .
+TopHypScore: (0.0127013940364, 0.0250019785017, 0.96229660511)
+
+Prm[34]: Man in a black suit , white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him .
+Hyp[0][34]: Nobody has a suit
+HypScore: (0.435361504555, 0.403960257769, 0.160678312182)
+
+TopHyp[0][9787]: A lone child makes a snow angel in the snow
+TopHypScore: (1.0, 4.61764102511e-08, 1.15029687164e-12)
+
+TopHyp[1][9023]: A man in a chef hat cooks chicken on a red grill , while other men are eating and giving thumbs up in the background .
+TopHypScore: (1.0, 1.24952892477e-08, 2.58853442153e-11)
+
+TopHyp[2][8148]: Two men are sitting on a bench as a crowd watches .
+TopHypScore: (1.0, 7.43770556255e-09, 7.86541887177e-10)
+
+TopHyp[3][7616]: A man sitting down watching television .
+TopHypScore: (1.0, 4.83748436864e-08, 3.87727361328e-09)
+
+TopHyp[4][7468]: A girl is working on a lab experiment .
+TopHypScore: (1.0, 4.90753784277e-08, 4.7321924157e-10)
+
+TopHyp[5][7451]: A man shows a group of people how to blow glass .
+TopHypScore: (1.0, 3.4533895743e-09, 3.21870974969e-13)
+
+TopHyp[6][7390]: A man shows a photo to a class .
+TopHypScore: (1.0, 1.50522296849e-08, 7.14704283169e-13)
+
+TopHyp[7][7214]: a man on a bike does a jump on a bridge
+TopHypScore: (1.0, 9.80759029545e-09, 1.84064690573e-11)
+
+TopHyp[8][6605]: Two sad men are sitting on a grassy hillside wearing bike helmets .
+TopHypScore: (1.0, 9.0334473235e-10, 4.59601432433e-13)
+
+TopHyp[9][6367]: Children are getting wet on purpose .
+TopHypScore: (1.0, 9.72156399826e-09, 1.24135416031e-13)
+
+Prm[35]: Man in a black suit , white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him .
+Hyp[1][35]: A tall person in a suit
+HypScore: (0.80461537838, 0.0454569645226, 0.149927601218)
+
+TopHyp[0][5185]: The woman has nothing in her hands .
+TopHypScore: (0.000176021567313, 0.999777972698, 4.59461807623e-05)
+
+TopHyp[1][5811]: people are doing nothing
+TopHypScore: (8.07779360912e-05, 0.99964761734, 0.000271555676591)
+
+TopHyp[2][1150]: They are holding a notepad .
+TopHypScore: (0.000121966513689, 0.999614238739, 0.000263755093329)
+
+TopHyp[3][5735]: The dog has nothing in its mouth .
+TopHypScore: (0.000394669012167, 0.999602735043, 2.64777008852e-06)
+
+TopHyp[4][2671]: Two wrestlers are in the ring .
+TopHypScore: (0.000512079743203, 0.999446094036, 4.18641575379e-05)
+
+TopHyp[5][5179]: The taxi is in the garage .
+TopHypScore: (0.000455746747321, 0.998275995255, 0.00126825133339)
+
+TopHyp[6][9757]: The child has no legs .
+TopHypScore: (0.00170510762837, 0.995895624161, 0.00239933235571)
+
+TopHyp[7][1441]: The jacket is fleece
+TopHypScore: (0.00176819087937, 0.99560636282, 0.00262547074817)
+
+TopHyp[8][2105]: the Dog is black
+TopHypScore: (0.000270385149634, 0.995340585709, 0.00438900617883)
+
+TopHyp[9][8901]: The runner has a torch .
+TopHypScore: (0.00442307302728, 0.995174884796, 0.000402023113566)
+
+Prm[36]: Two women having drinks and smoking cigarettes at the bar .
+Hyp[2][36]: Two women are at a bar .
+HypScore: (0.00506254518405, 0.0467434898019, 0.948194026947)
+
+TopHyp[0][7244]: The children are in the cafeteria .
+TopHypScore: (0.00185197358951, 0.00333436974324, 0.994813680649)
+
+TopHyp[1][6001]: There are people near a beach .
+TopHypScore: (0.000979828299023, 0.00874140486121, 0.99027878046)
+
+TopHyp[2][7930]: A woman walks near a building .
+TopHypScore: (0.000810493074823, 0.00932569801807, 0.989863812923)
+
+TopHyp[3][5946]: People are at a pool .
+TopHypScore: (0.00136846338864, 0.00973662361503, 0.988894939423)
+
+TopHyp[4][2204]: people are dressed in costume
+TopHypScore: (0.00195924681611, 0.0106778526679, 0.987362980843)
+
+TopHyp[5][5620]: A person in a uniform
+TopHypScore: (0.000967170519289, 0.0117319971323, 0.987300753593)
+
+TopHyp[6][9261]: The people are near a building .
+TopHypScore: (0.00201210868545, 0.0130826318637, 0.984905302525)
+
+TopHyp[7][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00158831838053, 0.0165439657867, 0.981867671013)
+
+TopHyp[8][4521]: The car enthusiasts cheer .
+TopHypScore: (0.000123643883853, 0.0237583480775, 0.976118028164)
+
+TopHyp[9][8808]: Two people are drinking .
+TopHypScore: (0.00579150766134, 0.0189844891429, 0.975224018097)
+
+Prm[37]: Two women having drinks and smoking cigarettes at the bar .
+Hyp[0][37]: Three women are at a bar .
+HypScore: (0.23262283206, 0.566044211388, 0.201332896948)
+
+TopHyp[0][5975]: A man with a lab coat works in a lab .
+TopHypScore: (0.999999880791, 1.32914195206e-07, 1.0782710445e-12)
+
+TopHyp[1][2770]: A man throws a ball to a boy .
+TopHypScore: (0.999999403954, 5.46793899048e-07, 9.86090983174e-13)
+
+TopHyp[2][6455]: Two men are selling bananas .
+TopHypScore: (0.999998927116, 1.06374204734e-06, 1.79396619782e-09)
+
+TopHyp[3][3759]: four men chatting
+TopHypScore: (0.999998927116, 1.13024691473e-06, 6.77288891637e-09)
+
+TopHyp[4][8260]: man in bear suit
+TopHypScore: (0.999998569489, 1.46352408592e-06, 2.04225436562e-08)
+
+TopHyp[5][2607]: A man carrying a surfboard walking towards the ocean .
+TopHypScore: (0.999998211861, 1.77847960003e-06, 1.62623636779e-09)
+
+TopHyp[6][62]: The man stumbles stumbles in rollerskates .
+TopHypScore: (0.999997735023, 2.22841140385e-06, 3.10594382143e-15)
+
+TopHyp[7][6367]: Children are getting wet on purpose .
+TopHypScore: (0.999997377396, 2.63060724137e-06, 4.83725635502e-13)
+
+TopHyp[8][1509]: Two men are in a kayak .
+TopHypScore: (0.999997377396, 2.61676768787e-06, 3.19614770206e-08)
+
+TopHyp[9][2605]: A man standing by a body of water .
+TopHypScore: (0.999997138977, 2.76441301139e-06, 1.68729371808e-07)
+
+Prm[38]: Two women having drinks and smoking cigarettes at the bar .
+Hyp[1][38]: Women are celebrating at a bar .
+HypScore: (0.00778770027682, 0.0687655061483, 0.923446774483)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (8.02035810921e-06, 0.999992012978, 9.09643974728e-12)
+
+TopHyp[1][7574]: a boy kisses another boy
+TopHypScore: (2.40479203057e-05, 0.999975919724, 3.54999007968e-09)
+
+TopHyp[2][9571]: Football players are playing chess .
+TopHypScore: (0.000137619776069, 0.999860882759, 1.47475304857e-06)
+
+TopHyp[3][5811]: people are doing nothing
+TopHypScore: (0.000203772870009, 0.999762713909, 3.34429169015e-05)
+
+TopHyp[4][8270]: The boy is playing soccer .
+TopHypScore: (0.000258256448433, 0.999741613865, 1.15995533179e-07)
+
+TopHyp[5][4675]: A man in a blue shirt , khaki shorts , ball cap and blue socks and loafers walking behind a group of people walking down a stone walkway with a water bottle in his left hand .
+TopHypScore: (0.000466132129077, 0.99952673912, 7.11925622454e-06)
+
+TopHyp[6][8601]: A young boy is playing hockey .
+TopHypScore: (0.000522318354342, 0.999477088451, 5.62931120385e-07)
+
+TopHyp[7][1150]: They are holding a notepad .
+TopHypScore: (0.000208013298106, 0.999466717243, 0.00032532287878)
+
+TopHyp[8][8152]: Nobody has an outfit
+TopHypScore: (0.000634808209725, 0.999347150326, 1.79494927579e-05)
+
+TopHyp[9][8044]: A person on a white horse and red shirt and baseball hat attempts to lasso a running calf
+TopHypScore: (0.00073708005948, 0.999250113964, 1.27525690914e-05)
+
+Prm[39]: At an outdoor event in an Asian-themed area , a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera .
+Hyp[0][39]: A single man is next to a camera
+HypScore: (0.919740557671, 0.065783970058, 0.0144754713401)
+
+TopHyp[0][5975]: A man with a lab coat works in a lab .
+TopHypScore: (0.999999642372, 3.8899207766e-07, 3.09213343819e-09)
+
+TopHyp[1][3284]: A man is standing on the road to catch a ride .
+TopHypScore: (0.999999523163, 4.60764709942e-07, 9.61163149071e-10)
+
+TopHyp[2][4732]: There is a girl eating at a restaurant whilst wearing a hat .
+TopHypScore: (0.999998569489, 1.44599493979e-06, 3.49642697017e-08)
+
+TopHyp[3][6459]: Two men are standing beside produce .
+TopHypScore: (0.999998450279, 1.53472842612e-06, 1.6259646074e-08)
+
+TopHyp[4][8148]: Two men are sitting on a bench as a crowd watches .
+TopHypScore: (0.999998092651, 1.43734075664e-06, 4.84144663915e-07)
+
+TopHyp[5][2412]: Two men are standing on a beach looking up at a cliff .
+TopHypScore: (0.999998092651, 1.87619275493e-06, 4.51521025013e-08)
+
+TopHyp[6][2784]: a young girl putting a box on a shelf
+TopHypScore: (0.999997496605, 2.46529043579e-06, 2.13215383127e-08)
+
+TopHyp[7][3648]: It is a sunny day in the park while two men play chess .
+TopHypScore: (0.999997138977, 2.83300960291e-06, 1.03878159408e-08)
+
+TopHyp[8][7696]: People sitting under a tent are cold while the other stands and tries to start a fire .
+TopHypScore: (0.99999666214, 3.30717648467e-06, 3.12725445539e-09)
+
+TopHyp[9][4773]: A man is shampooing his hair in a shower with a ducky themed shower curtain .
+TopHypScore: (0.99999666214, 3.35797244588e-06, 5.9241301642e-08)
+
+Prm[40]: At an outdoor event in an Asian-themed area , a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera .
+Hyp[1][40]: A crowd is dancing
+HypScore: (0.465420246124, 0.263050287962, 0.271529465914)
+
+TopHyp[0][2105]: the Dog is black
+TopHypScore: (0.00154860166367, 0.996508777142, 0.00194267788902)
+
+TopHyp[1][2671]: Two wrestlers are in the ring .
+TopHypScore: (0.0031541462522, 0.996177911758, 0.000667948916089)
+
+TopHyp[2][1150]: They are holding a notepad .
+TopHypScore: (0.00138258724473, 0.99608117342, 0.00253619882278)
+
+TopHyp[3][8473]: A group of dancers is watching a movie
+TopHypScore: (0.00440652389079, 0.995454311371, 0.000139241674333)
+
+TopHyp[4][6265]: A man , wearing a blue shirt , is listening to music
+TopHypScore: (0.00452836416662, 0.995087921619, 0.00038371240953)
+
+TopHyp[5][1441]: The jacket is fleece
+TopHypScore: (0.00198938278481, 0.994801521301, 0.00320911966264)
+
+TopHyp[6][5185]: The woman has nothing in her hands .
+TopHypScore: (0.00466524576768, 0.994761884212, 0.000572920485865)
+
+TopHyp[7][2248]: A man is walking to a job interview .
+TopHypScore: (0.00494074262679, 0.994299650192, 0.000759550719522)
+
+TopHyp[8][5811]: people are doing nothing
+TopHypScore: (0.00271530076861, 0.992940783501, 0.00434386404231)
+
+TopHyp[9][6257]: A group of people are advertising a new type of rollerskate .
+TopHypScore: (0.00513872830197, 0.991480827332, 0.00338045577519)
+
+Prm[41]: At an outdoor event in an Asian-themed area , a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera .
+Hyp[1][41]: A crowd is in front of a camera
+HypScore: (0.416987389326, 0.236861780286, 0.346150815487)
+
+TopHyp[0][2105]: the Dog is black
+TopHypScore: (0.00154860166367, 0.996508777142, 0.00194267788902)
+
+TopHyp[1][2671]: Two wrestlers are in the ring .
+TopHypScore: (0.0031541462522, 0.996177911758, 0.000667948916089)
+
+TopHyp[2][1150]: They are holding a notepad .
+TopHypScore: (0.00138258724473, 0.99608117342, 0.00253619882278)
+
+TopHyp[3][8473]: A group of dancers is watching a movie
+TopHypScore: (0.00440652389079, 0.995454311371, 0.000139241674333)
+
+TopHyp[4][6265]: A man , wearing a blue shirt , is listening to music
+TopHypScore: (0.00452836416662, 0.995087921619, 0.00038371240953)
+
+TopHyp[5][1441]: The jacket is fleece
+TopHypScore: (0.00198938278481, 0.994801521301, 0.00320911966264)
+
+TopHyp[6][5185]: The woman has nothing in her hands .
+TopHypScore: (0.00466524576768, 0.994761884212, 0.000572920485865)
+
+TopHyp[7][2248]: A man is walking to a job interview .
+TopHypScore: (0.00494074262679, 0.994299650192, 0.000759550719522)
+
+TopHyp[8][5811]: people are doing nothing
+TopHypScore: (0.00271530076861, 0.992940783501, 0.00434386404231)
+
+TopHyp[9][6257]: A group of people are advertising a new type of rollerskate .
+TopHypScore: (0.00513872830197, 0.991480827332, 0.00338045577519)
+
+Prm[42]: Two doctors perform surgery on patient .
+Hyp[0][42]: Two surgeons are having lunch .
+HypScore: (0.705871224403, 0.293374687433, 0.000754081469495)
+
+TopHyp[0][6367]: Children are getting wet on purpose .
+TopHypScore: (0.99998998642, 9.96131620923e-06, 5.03611076452e-11)
+
+TopHyp[1][8260]: man in bear suit
+TopHypScore: (0.999960303307, 3.88006847061e-05, 9.78199864221e-07)
+
+TopHyp[2][8232]: The man is alone in his bathroom .
+TopHypScore: (0.999897837639, 0.00010162871331, 5.07331264998e-07)
+
+TopHyp[3][2454]: A man 's feet are not touching the ground .
+TopHypScore: (0.99985396862, 0.000145122321555, 7.85434338013e-07)
+
+TopHyp[4][2175]: The man is alone in the bathroom .
+TopHypScore: (0.999829888344, 0.000169266742887, 8.79778781382e-07)
+
+TopHyp[5][351]: Two women sitting at their workplace desks .
+TopHypScore: (0.99981456995, 0.000185413387953, 1.86162396609e-09)
+
+TopHyp[6][3315]: A couple are in divorce court .
+TopHypScore: (0.999811351299, 0.000185488315765, 3.17671128869e-06)
+
+TopHyp[7][3414]: two pedestrians walk on a cobblestone road past a cafe in France
+TopHypScore: (0.999788820744, 0.000210613870877, 6.42802319817e-07)
+
+TopHyp[8][62]: The man stumbles stumbles in rollerskates .
+TopHypScore: (0.999787509441, 0.000212484184885, 9.91017096402e-14)
+
+TopHyp[9][3302]: Some peoples take a photo
+TopHypScore: (0.999754726887, 0.000243086731643, 2.12999225369e-06)
+
+Prm[43]: Two doctors perform surgery on patient .
+Hyp[2][43]: Doctors are performing surgery .
+HypScore: (0.0745008140802, 0.883929729462, 0.0415695272386)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (5.63173307455e-06, 0.00265335734002, 0.997340977192)
+
+TopHyp[1][2939]: Two people stand by a building .
+TopHypScore: (0.000270670396276, 0.0101559171453, 0.989573419094)
+
+TopHyp[2][3624]: A man talks on a phone in a city .
+TopHypScore: (0.00922254752368, 0.00168393878266, 0.989093542099)
+
+TopHyp[3][7244]: The children are in the cafeteria .
+TopHypScore: (0.010389062576, 0.00228474405594, 0.987326204777)
+
+TopHyp[4][3831]: a woman is walking down the street
+TopHypScore: (0.00106282625347, 0.0119974808767, 0.986939668655)
+
+TopHyp[5][1607]: A kid is with a woman .
+TopHypScore: (0.000426593294833, 0.014002405107, 0.985571026802)
+
+TopHyp[6][7930]: A woman walks near a building .
+TopHypScore: (0.00255531538278, 0.0133704794571, 0.984074234962)
+
+TopHyp[7][7367]: a kid walks with a flag
+TopHypScore: (0.00142791541293, 0.0188381243497, 0.979734003544)
+
+TopHyp[8][5212]: A woman walking down the street .
+TopHypScore: (0.000821072375402, 0.0203477218747, 0.978831231594)
+
+TopHyp[9][4198]: A couple of people stand on stage .
+TopHypScore: (0.000496955413837, 0.0235516708344, 0.975951433182)
+
+Prm[44]: Two doctors perform surgery on patient .
+Hyp[1][44]: Two doctors are performing surgery on a man .
+HypScore: (0.136217832565, 0.756859958172, 0.106922209263)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (6.42764234726e-07, 0.999999403954, 8.92154676958e-13)
+
+TopHyp[1][932]: A man is playing an acoustic guitar on the sidewalk while a woman and a man walk down the sidewalk .
+TopHypScore: (2.30261139222e-06, 0.999997735023, 1.04855568672e-09)
+
+TopHyp[2][6799]: Several male curling players sweeping their path on ice in front of a rock as a small crowd watches .
+TopHypScore: (2.58605427916e-06, 0.999997258186, 1.14260821249e-07)
+
+TopHyp[3][7574]: a boy kisses another boy
+TopHypScore: (5.24661709278e-06, 0.999994754791, 6.46650288871e-10)
+
+TopHyp[4][1825]: A sad girl in a green knit cap stands ready to push a sled , with a little boy behind her .
+TopHypScore: (7.8664306784e-06, 0.999992132187, 3.5557468081e-09)
+
+TopHyp[5][4513]: Several boys are playing basketball inside against each other .
+TopHypScore: (1.8731907403e-05, 0.999981284142, 6.3050449306e-09)
+
+TopHyp[6][9571]: Football players are playing chess .
+TopHypScore: (4.18796917074e-05, 0.99995803833, 1.38252289617e-07)
+
+TopHyp[7][1619]: An old man playing an instrument for a bunch of boyscouts at an outdoor concert .
+TopHypScore: (4.92472863698e-05, 0.999950528145, 1.88008229429e-07)
+
+TopHyp[8][6085]: A man in a jacket holds a small child while petting his dog near a woman holding a small boy and her dog .
+TopHypScore: (5.09644123667e-05, 0.999948740005, 2.21485606744e-07)
+
+TopHyp[9][4325]: A little boy eats a red popsicle
+TopHypScore: (6.12772928434e-05, 0.999938607216, 1.23231743032e-07)
+
+Prm[45]: A white dog with long hair jumps to catch a red and green toy .
+Hyp[0][45]: A white dog with long hair is swimming underwater .
+HypScore: (0.411650449038, 0.283322095871, 0.305027455091)
+
+TopHyp[0][5528]: a police officer offers a man in leather to go for a motorcycle ride
+TopHypScore: (0.999999880791, 1.43699438127e-07, 3.01998911989e-11)
+
+TopHyp[1][5526]: a police officer stands next to his motorcycle with another man in leather nearby
+TopHypScore: (0.999999284744, 6.83930466039e-07, 5.54827191135e-12)
+
+TopHyp[2][2607]: A man carrying a surfboard walking towards the ocean .
+TopHypScore: (0.999997496605, 2.52034715231e-06, 1.92521087961e-09)
+
+TopHyp[3][5529]: A police officer is on his motorcycle .
+TopHypScore: (0.999997377396, 2.67784685093e-06, 2.93221003034e-09)
+
+TopHyp[4][1588]: The man lost the game
+TopHypScore: (0.999997138977, 2.82217729364e-06, 2.16803570652e-08)
+
+TopHyp[5][9394]: Several service men are carrying a cross on Easter .
+TopHypScore: (0.999995589256, 4.45152682005e-06, 5.76264314045e-10)
+
+TopHyp[6][5083]: A police officer is sitting in his police car , racing towards a criminal .
+TopHypScore: (0.999994874001, 5.07184813614e-06, 1.51090598366e-10)
+
+TopHyp[7][2412]: Two men are standing on a beach looking up at a cliff .
+TopHypScore: (0.999993801117, 6.25013944955e-06, 1.75515371126e-08)
+
+TopHyp[8][5975]: A man with a lab coat works in a lab .
+TopHypScore: (0.99999332428, 6.72030137139e-06, 9.30007537647e-09)
+
+TopHyp[9][2260]: People watch a tiger mascot .
+TopHypScore: (0.99999153614, 8.46261355036e-06, 8.53849702054e-09)
+
+Prm[46]: A white dog with long hair jumps to catch a red and green toy .
+Hyp[2][46]: An animal is jumping to catch an object .
+HypScore: (0.172265127301, 0.550677597523, 0.277057290077)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (0.00167299155146, 0.01556428615, 0.982762694359)
+
+TopHyp[1][3624]: A man talks on a phone in a city .
+TopHypScore: (0.0158672258258, 0.00527237309143, 0.978860318661)
+
+TopHyp[2][7244]: The children are in the cafeteria .
+TopHypScore: (0.0055656270124, 0.0263509619981, 0.968083381653)
+
+TopHyp[3][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00911487825215, 0.0268701743335, 0.96401488781)
+
+TopHyp[4][7930]: A woman walks near a building .
+TopHypScore: (0.0117682060227, 0.0459947809577, 0.942237019539)
+
+TopHyp[5][2204]: people are dressed in costume
+TopHypScore: (0.00783367175609, 0.0517947785556, 0.940371572971)
+
+TopHyp[6][525]: Two people are near the water .
+TopHypScore: (0.0283120833337, 0.0415226109326, 0.930165290833)
+
+TopHyp[7][5575]: a couple are reunited
+TopHypScore: (0.0102950399742, 0.0599041059613, 0.929800927639)
+
+TopHyp[8][9261]: The people are near a building .
+TopHypScore: (0.0179614704102, 0.0545088723302, 0.92752969265)
+
+TopHyp[9][7187]: There is a person near some water .
+TopHypScore: (0.0197488069534, 0.056426987052, 0.923824191093)
+
+Prm[47]: A white dog with long hair jumps to catch a red and green toy .
+Hyp[1][47]: A white chihuahua mix with long curly hair is jumping to catch a red and green toy bone .
+HypScore: (0.310139030218, 0.645462930202, 0.0443979501724)
+
+TopHyp[0][5811]: people are doing nothing
+TopHypScore: (0.000411834364058, 0.999464809895, 0.000123272024211)
+
+TopHyp[1][2899]: The girl is wearing a black shirt and pants .
+TopHypScore: (0.000358762132237, 0.999383926392, 0.000257310137386)
+
+TopHyp[2][4675]: A man in a blue shirt , khaki shorts , ball cap and blue socks and loafers walking behind a group of people walking down a stone walkway with a water bottle in his left hand .
+TopHypScore: (0.000686905696057, 0.99927765131, 3.55548436346e-05)
+
+TopHyp[3][2671]: Two wrestlers are in the ring .
+TopHypScore: (0.000691975990776, 0.999249875546, 5.81073436479e-05)
+
+TopHyp[4][1150]: They are holding a notepad .
+TopHypScore: (0.000493185769301, 0.999109447002, 0.000397334457375)
+
+TopHyp[5][5222]: The man is a runner
+TopHypScore: (0.000856353901327, 0.998618483543, 0.000525070645381)
+
+TopHyp[6][8342]: The girl has a green shirt .
+TopHypScore: (0.00103842781391, 0.998532533646, 0.00042898679385)
+
+TopHyp[7][9108]: A man is playing whose is in a band is playing an electric guitar .
+TopHypScore: (0.00146805867553, 0.998530864716, 1.05037656795e-06)
+
+TopHyp[8][1957]: A festival displays two men dressed up in red makeup and costume , while an older man has some cream on his face .
+TopHypScore: (0.00160816998687, 0.998391807079, 2.10322745886e-08)
+
+TopHyp[9][4784]: The young women is outside .
+TopHypScore: (0.00130040349904, 0.998246312141, 0.000453310756711)
+
+Prm[48]: Kids are on a amusement ride .
+Hyp[1][48]: Kids ride their favorite amusement ride .
+HypScore: (0.124064028263, 0.874427318573, 0.00150867260527)
+
+TopHyp[0][4675]: A man in a blue shirt , khaki shorts , ball cap and blue socks and loafers walking behind a group of people walking down a stone walkway with a water bottle in his left hand .
+TopHypScore: (5.06465621584e-05, 0.999948620796, 7.74244142576e-07)
+
+TopHyp[1][274]: A boy is playing on an inflatable ride .
+TopHypScore: (0.000371076457668, 0.999628901482, 5.58859492017e-09)
+
+TopHyp[2][2899]: The girl is wearing a black shirt and pants .
+TopHypScore: (0.000424850033596, 0.999561011791, 1.41275522765e-05)
+
+TopHyp[3][4261]: The men and women are young .
+TopHypScore: (0.000249677861575, 0.999529600143, 0.00022078207985)
+
+TopHyp[4][8342]: The girl has a green shirt .
+TopHypScore: (0.000507771968842, 0.999415874481, 7.63350108173e-05)
+
+TopHyp[5][2117]: A person is staring at a girl he think he recognizes .
+TopHypScore: (0.000404244434321, 0.99940943718, 0.000186358971405)
+
+TopHyp[6][7574]: a boy kisses another boy
+TopHypScore: (0.000633087940514, 0.999365508556, 1.42342878462e-06)
+
+TopHyp[7][4486]: The crowd is watching the girl .
+TopHypScore: (0.000721131858882, 0.999153256416, 0.000125634076539)
+
+TopHyp[8][4784]: The young women is outside .
+TopHypScore: (0.000874419580214, 0.999012470245, 0.00011310656555)
+
+TopHyp[9][1825]: A sad girl in a green knit cap stands ready to push a sled , with a little boy behind her .
+TopHypScore: (0.000995978713036, 0.999003827572, 2.50663816814e-07)
+
+Prm[49]: Kids are on a amusement ride .
+Hyp[0][49]: A car is broke down on the side of the road .
+HypScore: (0.45001026988, 0.304539322853, 0.245450407267)
+
+TopHyp[0][351]: Two women sitting at their workplace desks .
+TopHypScore: (0.999999880791, 1.47252592342e-07, 2.24476184169e-11)
+
+TopHyp[1][5338]: Some people are enjoying themselves at a musical .
+TopHypScore: (0.999999761581, 2.56359385276e-07, 5.14429193688e-11)
+
+TopHyp[2][4105]: There are several people in this photo , and they are all making music .
+TopHypScore: (0.999999642372, 4.08151521469e-07, 4.37641090034e-10)
+
+TopHyp[3][6367]: Children are getting wet on purpose .
+TopHypScore: (0.999999403954, 5.87695978993e-07, 8.55438428427e-11)
+
+TopHyp[4][5043]: Two men are sitting handcuffed in a police station .
+TopHypScore: (0.999999284744, 7.33004753783e-07, 3.23007354197e-09)
+
+TopHyp[5][2454]: A man 's feet are not touching the ground .
+TopHypScore: (0.999999284744, 7.17555224128e-07, 2.20013629537e-09)
+
+TopHyp[6][7390]: A man shows a photo to a class .
+TopHypScore: (0.999998927116, 1.13140731628e-06, 4.23679757944e-09)
+
+TopHyp[7][8392]: Some men are sitting in a hottub .
+TopHypScore: (0.999998688698, 1.25584710986e-06, 2.30488628183e-09)
+
+TopHyp[8][8260]: man in bear suit
+TopHypScore: (0.999998688698, 1.34674519359e-06, 2.65008726075e-08)
+
+TopHyp[9][3315]: A couple are in divorce court .
+TopHypScore: (0.999998569489, 1.36670541906e-06, 6.02849539177e-08)
+
+Prm[50]: Kids are on a amusement ride .
+Hyp[2][50]: Kids ride an amusement ride .
+HypScore: (0.0179350711405, 0.981813430786, 0.000251485907938)
+
+TopHyp[0][3624]: A man talks on a phone in a city .
+TopHypScore: (0.00180859980173, 0.000366316759028, 0.997825145721)
+
+TopHyp[1][4146]: people stand near pole
+TopHypScore: (2.54854166997e-05, 0.00616382341832, 0.993810713291)
+
+TopHyp[2][2939]: Two people stand by a building .
+TopHypScore: (0.00225082132965, 0.0239874087274, 0.973761737347)
+
+TopHyp[3][1607]: A kid is with a woman .
+TopHypScore: (0.00322188949212, 0.0422738865018, 0.95450425148)
+
+TopHyp[4][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00631645228714, 0.0406959913671, 0.952987551689)
+
+TopHyp[5][3831]: a woman is walking down the street
+TopHypScore: (0.00377230043523, 0.0433229245245, 0.952904701233)
+
+TopHyp[6][7975]: a woman talks on her phone
+TopHypScore: (0.0360310748219, 0.0116029931232, 0.952365994453)
+
+TopHyp[7][2049]: two people stand together outside
+TopHypScore: (0.00207113591023, 0.0502167008817, 0.947712182999)
+
+TopHyp[8][5212]: A woman walking down the street .
+TopHypScore: (0.00311894039623, 0.0497299134731, 0.947151124477)
+
+TopHyp[9][2204]: people are dressed in costume
+TopHypScore: (0.00834917463362, 0.0500012822449, 0.94164955616)
+
+Prm[51]: A man in a black shirt is playing golf outside .
+Hyp[1][51]: A man plays on a golf course to relax .
+HypScore: (0.91520768404, 0.0647444278002, 0.020047865808)
+
+TopHyp[0][5811]: people are doing nothing
+TopHypScore: (0.000151092332089, 0.999723017216, 0.000125863123685)
+
+TopHyp[1][274]: A boy is playing on an inflatable ride .
+TopHypScore: (0.000322234554915, 0.999677658081, 1.37463445071e-07)
+
+TopHyp[2][5185]: The woman has nothing in her hands .
+TopHypScore: (0.000510051846504, 0.99947732687, 1.2657616935e-05)
+
+TopHyp[3][2671]: Two wrestlers are in the ring .
+TopHypScore: (0.00105900410563, 0.998918533325, 2.24951036216e-05)
+
+TopHyp[4][1150]: They are holding a notepad .
+TopHypScore: (0.00102779397275, 0.998785316944, 0.000186964578461)
+
+TopHyp[5][5179]: The taxi is in the garage .
+TopHypScore: (0.0015215446474, 0.996418952942, 0.00205946108326)
+
+TopHyp[6][5164]: Two young girls have fun on a trampoline , one of which appears to be falling down onto her back while the other poses with a smile behind her and waving .
+TopHypScore: (0.00458763726056, 0.995333373547, 7.9033896327e-05)
+
+TopHyp[7][7595]: The woman has 2 bags .
+TopHypScore: (0.00461524212733, 0.994906842709, 0.000477906956803)
+
+TopHyp[8][1825]: A sad girl in a green knit cap stands ready to push a sled , with a little boy behind her .
+TopHypScore: (0.00528625072911, 0.99460464716, 0.000109083324787)
+
+TopHyp[9][4910]: The subway is a busy place .
+TopHypScore: (0.00130971474573, 0.994460463524, 0.00422978308052)
+
+Prm[52]: A man in a black shirt is playing golf outside .
+Hyp[0][52]: The man in the black shirt trades Pokemon cards with his girlfriend .
+HypScore: (0.946230947971, 0.0456701330841, 0.00809894688427)
+
+TopHyp[0][8392]: Some men are sitting in a hottub .
+TopHypScore: (1.0, 4.65695677576e-08, 3.93010381183e-11)
+
+TopHyp[1][6367]: Children are getting wet on purpose .
+TopHypScore: (1.0, 4.72274770402e-08, 7.19197447365e-14)
+
+TopHyp[2][5043]: Two men are sitting handcuffed in a police station .
+TopHypScore: (1.0, 1.37907996134e-08, 7.06509517556e-10)
+
+TopHyp[3][3898]: Someone is playing jump rope .
+TopHypScore: (1.0, 5.5840621016e-09, 9.38102880424e-15)
+
+TopHyp[4][2607]: A man carrying a surfboard walking towards the ocean .
+TopHypScore: (1.0, 2.87061165949e-08, 6.60333732139e-11)
+
+TopHyp[5][2454]: A man 's feet are not touching the ground .
+TopHypScore: (1.0, 1.39551037392e-10, 2.59492219514e-14)
+
+TopHyp[6][1652]: Someone performing a jump with a bicycle .
+TopHypScore: (1.0, 6.50858700268e-09, 2.66136312071e-14)
+
+TopHyp[7][351]: Two women sitting at their workplace desks .
+TopHypScore: (1.0, 1.10373434836e-08, 7.73871093075e-13)
+
+TopHyp[8][7214]: a man on a bike does a jump on a bridge
+TopHypScore: (0.999999880791, 8.12188432064e-08, 3.20877213689e-10)
+
+TopHyp[9][4140]: A man waiting for someone while sitting on the grass .
+TopHypScore: (0.999999880791, 7.85307463502e-08, 4.63871635548e-10)
+
+Prm[53]: A man in a black shirt is playing golf outside .
+Hyp[2][53]: The man wearing the black shirt plays a game of golf .
+HypScore: (0.200165301561, 0.71472287178, 0.0851118415594)
+
+TopHyp[0][7244]: The children are in the cafeteria .
+TopHypScore: (0.00151943683159, 0.00615131109953, 0.99232929945)
+
+TopHyp[1][3624]: A man talks on a phone in a city .
+TopHypScore: (0.00717004481703, 0.00198686332442, 0.990843057632)
+
+TopHyp[2][7930]: A woman walks near a building .
+TopHypScore: (0.000606609857641, 0.0118393404409, 0.987554073334)
+
+TopHyp[3][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.000374114781152, 0.0127668548375, 0.986859083176)
+
+TopHyp[4][4146]: people stand near pole
+TopHypScore: (2.33354762713e-06, 0.0161594301462, 0.983838200569)
+
+TopHyp[5][8808]: Two people are drinking .
+TopHypScore: (0.00480639422312, 0.0189317744225, 0.976261854172)
+
+TopHyp[6][5575]: a couple are reunited
+TopHypScore: (0.000922075123526, 0.0228285342455, 0.976249337196)
+
+TopHyp[7][2144]: A woman in a restaurant .
+TopHypScore: (0.00276600196958, 0.0217015128583, 0.975532531738)
+
+TopHyp[8][2204]: people are dressed in costume
+TopHypScore: (0.00117732316721, 0.0233758855611, 0.975446760654)
+
+TopHyp[9][6001]: There are people near a beach .
+TopHypScore: (0.00678197806701, 0.017782734707, 0.975435316563)
+
+Prm[54]: A older gentleman finds it humorous that he is getting his picture taken while doing his laundry .
+Hyp[1][54]: a blond man laughs while doing laundry
+HypScore: (0.108736507595, 0.188111066818, 0.703152418137)
+
+TopHyp[0][932]: A man is playing an acoustic guitar on the sidewalk while a woman and a man walk down the sidewalk .
+TopHypScore: (0.00144304777496, 0.998555362225, 1.50458163262e-06)
+
+TopHyp[1][274]: A boy is playing on an inflatable ride .
+TopHypScore: (0.00275702821091, 0.997242927551, 1.61676538823e-08)
+
+TopHyp[2][7574]: a boy kisses another boy
+TopHypScore: (0.00294375023805, 0.997054815292, 1.37657048072e-06)
+
+TopHyp[3][4513]: Several boys are playing basketball inside against each other .
+TopHypScore: (0.0034316489473, 0.996564805508, 3.5611342355e-06)
+
+TopHyp[4][9571]: Football players are playing chess .
+TopHypScore: (0.00525520369411, 0.994616806507, 0.000128017869429)
+
+TopHyp[5][4174]: A shirtless man is entering a Wendy 's .
+TopHypScore: (0.00625036749989, 0.992882728577, 0.000866867369041)
+
+TopHyp[6][6171]: A little boy is playing soccer outside .
+TopHypScore: (0.0103513775393, 0.98963201046, 1.6596284695e-05)
+
+TopHyp[7][2279]: Volleyball players in red are beating the other team .
+TopHypScore: (0.0110415313393, 0.988835275173, 0.000123187695863)
+
+TopHyp[8][2671]: Two wrestlers are in the ring .
+TopHypScore: (0.00770297367126, 0.98861515522, 0.0036819409579)
+
+TopHyp[9][8601]: A young boy is playing hockey .
+TopHypScore: (0.0116097228602, 0.988290965557, 9.92681380012e-05)
+
+Prm[55]: A older gentleman finds it humorous that he is getting his picture taken while doing his laundry .
+Hyp[2][55]: a guy laughs while doing laundry
+HypScore: (0.8371925354, 0.139421239495, 0.023386226967)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (0.000363958184607, 0.0145443743095, 0.985091626644)
+
+TopHyp[1][6001]: There are people near a beach .
+TopHypScore: (0.00963968038559, 0.0083199441433, 0.982040405273)
+
+TopHyp[2][5575]: a couple are reunited
+TopHypScore: (0.00345129473135, 0.0157683994621, 0.980780303478)
+
+TopHyp[3][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00448470702395, 0.0155382174999, 0.97997713089)
+
+TopHyp[4][995]: A girl is eating at the cafeteria .
+TopHypScore: (0.0113050602376, 0.012281794101, 0.976413071156)
+
+TopHyp[5][3307]: A man with gloves and a flashlight .
+TopHypScore: (0.0159753169864, 0.0102954236791, 0.973729193211)
+
+TopHyp[6][7930]: A woman walks near a building .
+TopHypScore: (0.00869985669851, 0.019214881584, 0.972085297108)
+
+TopHyp[7][7244]: The children are in the cafeteria .
+TopHypScore: (0.01562840119, 0.0126090580598, 0.971762537956)
+
+TopHyp[8][2204]: people are dressed in costume
+TopHypScore: (0.0069730640389, 0.0224338266999, 0.970593094826)
+
+TopHyp[9][8609]: People watching a car .
+TopHypScore: (0.00682330224663, 0.0259537566453, 0.967222869396)
+
+Prm[56]: A older gentleman finds it humorous that he is getting his picture taken while doing his laundry .
+Hyp[0][56]: two ladies pin clothes to dry
+HypScore: (0.73990803957, 0.257672280073, 0.0024197162129)
+
+TopHyp[0][6690]: A dog at the dog groomers , gets a bath , a blow dry , and a nice brushing .
+TopHypScore: (1.0, 2.45443471103e-10, 2.33306989704e-19)
+
+TopHyp[1][6367]: Children are getting wet on purpose .
+TopHypScore: (1.0, 1.61923896513e-08, 1.14344558128e-12)
+
+TopHyp[2][3936]: The woman is sitting alone , silent , reading .
+TopHypScore: (1.0, 5.19407166166e-08, 8.63385231364e-12)
+
+TopHyp[3][1770]: Male in brown leather jacket and black slacks , looking down at his giraffe
+TopHypScore: (1.0, 1.48801575506e-08, 1.76480174828e-16)
+
+TopHyp[4][1769]: Male in brown leather jacket and black slacks , looking down at his phone
+TopHypScore: (1.0, 5.78001149165e-08, 2.58866035161e-13)
+
+TopHyp[5][1058]: Two women compete in a speed skating race .
+TopHypScore: (1.0, 2.63348276519e-08, 6.96107537931e-12)
+
+TopHyp[6][351]: Two women sitting at their workplace desks .
+TopHypScore: (1.0, 8.69773142398e-09, 2.19414712094e-11)
+
+TopHyp[7][1771]: Male in brown leather jacket and tight black slacks , looking down at his phone
+TopHypScore: (0.999999880791, 8.60614903786e-08, 1.09629839928e-12)
+
+TopHyp[8][7427]: A group of people is standing in a plane , ready to jump out and skydive .
+TopHypScore: (0.999999761581, 2.51361370829e-07, 1.23397625451e-10)
+
+TopHyp[9][6606]: Two women are sitting on a grassy hillside wearing bike helmets .
+TopHypScore: (0.999999761581, 2.61819792513e-07, 4.29905555599e-10)
+
+Prm[57]: An Indian woman is washing and cleaning dirty laundry at a lake and in the background is a kid who appears to have jumped into the lake .
+Hyp[2][57]: An Indian woman is doing her laundry in a lake .
+HypScore: (0.131904885173, 0.100029334426, 0.768065810204)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (1.78138343472e-05, 0.00182082911488, 0.998161375523)
+
+TopHyp[1][2939]: Two people stand by a building .
+TopHypScore: (0.000717134564184, 0.0104970550165, 0.988785862923)
+
+TopHyp[2][4198]: A couple of people stand on stage .
+TopHypScore: (0.00113081268501, 0.017791878432, 0.981077253819)
+
+TopHyp[3][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00294878170826, 0.0177392046899, 0.979311943054)
+
+TopHyp[4][3806]: People stand in front of a building
+TopHypScore: (0.00792725477368, 0.0186384972185, 0.973434269428)
+
+TopHyp[5][2049]: two people stand together outside
+TopHypScore: (0.00163013883866, 0.025349393487, 0.973020493984)
+
+TopHyp[6][9632]: Women are outside in front of a stand .
+TopHypScore: (0.00662903115153, 0.0209720600396, 0.972398877144)
+
+TopHyp[7][7367]: a kid walks with a flag
+TopHypScore: (0.0026146795135, 0.0279195941985, 0.969465792179)
+
+TopHyp[8][7932]: A woman sitting down .
+TopHypScore: (0.00778981670737, 0.0241661965847, 0.968043923378)
+
+TopHyp[9][8616]: A woman using a microscope .
+TopHypScore: (0.0112041505054, 0.0236015021801, 0.965194284916)
+
+Prm[58]: An Indian woman is washing and cleaning dirty laundry at a lake and in the background is a kid who appears to have jumped into the lake .
+Hyp[0][58]: An Indian woman is putting her laundry into the machine .
+HypScore: (0.203040152788, 0.153251230717, 0.643708586693)
+
+TopHyp[0][4105]: There are several people in this photo , and they are all making music .
+TopHypScore: (0.999999046326, 9.26822792735e-07, 1.17347731532e-09)
+
+TopHyp[1][5338]: Some people are enjoying themselves at a musical .
+TopHypScore: (0.999998569489, 1.46347110785e-06, 5.34041352807e-11)
+
+TopHyp[2][7390]: A man shows a photo to a class .
+TopHypScore: (0.999990105629, 9.9021663118e-06, 1.18322551756e-09)
+
+TopHyp[3][1494]: A man in a blue shirt is sitting in the rain .
+TopHypScore: (0.99998986721, 9.9595190477e-06, 1.30326554881e-07)
+
+TopHyp[4][351]: Two women sitting at their workplace desks .
+TopHypScore: (0.999988913536, 1.10649134513e-05, 8.44803249578e-09)
+
+TopHyp[5][2138]: Two women use umbrellas keep themselves dry from the rain
+TopHypScore: (0.999986410141, 1.35488135129e-05, 4.74574335385e-09)
+
+TopHyp[6][6367]: Children are getting wet on purpose .
+TopHypScore: (0.999979734421, 2.02135652216e-05, 1.19486625039e-08)
+
+TopHyp[7][9787]: A lone child makes a snow angel in the snow
+TopHypScore: (0.999979376793, 2.06499917113e-05, 8.96243879112e-09)
+
+TopHyp[8][5043]: Two men are sitting handcuffed in a police station .
+TopHypScore: (0.999976754189, 2.3053107725e-05, 2.44550278694e-07)
+
+TopHyp[9][2454]: A man 's feet are not touching the ground .
+TopHypScore: (0.999970912933, 2.9077866202e-05, 2.28230190302e-09)
+
+Prm[59]: An Indian woman is washing and cleaning dirty laundry at a lake and in the background is a kid who appears to have jumped into the lake .
+Hyp[1][59]: An Indian woman is doing laundry for her son in the lake .
+HypScore: (0.479644596577, 0.367785513401, 0.152569904923)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (5.99700524617e-06, 0.999994039536, 2.72868228013e-10)
+
+TopHyp[1][7574]: a boy kisses another boy
+TopHypScore: (3.0818504456e-05, 0.999969124794, 5.67291920106e-08)
+
+TopHyp[2][932]: A man is playing an acoustic guitar on the sidewalk while a woman and a man walk down the sidewalk .
+TopHypScore: (8.24873131933e-05, 0.999917387962, 8.91264093639e-08)
+
+TopHyp[3][6171]: A little boy is playing soccer outside .
+TopHypScore: (0.0004577243526, 0.999540328979, 2.04987304642e-06)
+
+TopHyp[4][8270]: The boy is playing soccer .
+TopHypScore: (0.000489517988171, 0.999508976936, 1.5656441974e-06)
+
+TopHyp[5][7205]: Two women are getting ready to eat .
+TopHypScore: (0.000525453535374, 0.999469697475, 4.85685222884e-06)
+
+TopHyp[6][5222]: The man is a runner
+TopHypScore: (0.000533970422111, 0.999449312687, 1.66765457834e-05)
+
+TopHyp[7][6978]: The man is watching tv
+TopHypScore: (0.000573711644392, 0.9994161129, 1.01972791526e-05)
+
+TopHyp[8][8601]: A young boy is playing hockey .
+TopHypScore: (0.000582354259677, 0.999412178993, 5.53703102923e-06)
+
+TopHyp[9][8473]: A group of dancers is watching a movie
+TopHypScore: (0.000592926284298, 0.999405503273, 1.55990835538e-06)
+
+Prm[60]: A man in a green jersey and rollerskates stumbles as a man in a black jersey appears to collide with him .
+Hyp[0][60]: They are driving cars .
+HypScore: (0.0974724218249, 0.660659193993, 0.241868317127)
+
+TopHyp[0][6690]: A dog at the dog groomers , gets a bath , a blow dry , and a nice brushing .
+TopHypScore: (1.0, 1.55207613428e-09, 1.93988941418e-17)
+
+TopHyp[1][5134]: Four people , One male in a blue shirt and slacks with three females , one in pink , one in blue , and the other with a blue shirt and blue blouse , in line to enter a yellow school bus , while a female in pink hold paper is on the phone .
+TopHypScore: (1.0, 2.80190590729e-08, 2.60410803245e-19)
+
+TopHyp[2][1771]: Male in brown leather jacket and tight black slacks , looking down at his phone
+TopHypScore: (1.0, 4.79032706835e-08, 3.26780133985e-13)
+
+TopHyp[3][1770]: Male in brown leather jacket and black slacks , looking down at his giraffe
+TopHypScore: (1.0, 1.74684178234e-08, 1.01117808567e-15)
+
+TopHyp[4][351]: Two women sitting at their workplace desks .
+TopHypScore: (1.0, 1.50194221504e-08, 3.11337101933e-11)
+
+TopHyp[5][1769]: Male in brown leather jacket and black slacks , looking down at his phone
+TopHypScore: (0.999999880791, 6.15303576978e-08, 2.41094606302e-13)
+
+TopHyp[6][6906]: Boy wearing Dr , Pepper shirt watches another boy sitting in grass .
+TopHypScore: (0.999999761581, 2.65821142875e-07, 1.02073582334e-13)
+
+TopHyp[7][1494]: A man in a blue shirt is sitting in the rain .
+TopHypScore: (0.999999761581, 2.07438731081e-07, 6.73820388375e-10)
+
+TopHyp[8][9787]: A lone child makes a snow angel in the snow
+TopHypScore: (0.999999403954, 5.67474955915e-07, 6.62154941988e-10)
+
+TopHyp[9][6763]: A boy wears a blue shirt and sings in the rain .
+TopHypScore: (0.999999284744, 6.72599355767e-07, 2.50814674585e-10)
+
+Prm[61]: A man in a green jersey and rollerskates stumbles as a man in a black jersey appears to collide with him .
+Hyp[1][61]: They both fall to the ground .
+HypScore: (0.122480355203, 0.762217283249, 0.115302354097)
+
+TopHyp[0][9031]: Dogs playing on bed .
+TopHypScore: (0.00146995671093, 0.998209357262, 0.000320699764416)
+
+TopHyp[1][5185]: The woman has nothing in her hands .
+TopHypScore: (0.000514842162374, 0.997923076153, 0.00156206847169)
+
+TopHyp[2][6801]: The man has nothing on his head .
+TopHypScore: (0.000133208013722, 0.997655391693, 0.00221134326421)
+
+TopHyp[3][5222]: The man is a runner
+TopHypScore: (0.00108057295438, 0.996852338314, 0.00206716428511)
+
+TopHyp[4][1150]: They are holding a notepad .
+TopHypScore: (0.000417039147578, 0.996548473835, 0.00303454813547)
+
+TopHyp[5][2671]: Two wrestlers are in the ring .
+TopHypScore: (0.00271014636382, 0.995474278927, 0.00181553687435)
+
+TopHyp[6][4792]: A man drives a limo .
+TopHypScore: (0.00355266639963, 0.994913458824, 0.00153393018991)
+
+TopHyp[7][1749]: There is a man with his daughters .
+TopHypScore: (0.00225505116396, 0.994503855705, 0.00324112921953)
+
+TopHyp[8][4451]: The man has nothing on his face .
+TopHypScore: (0.00416622124612, 0.993842601776, 0.00199119886383)
+
+TopHyp[9][1957]: A festival displays two men dressed up in red makeup and costume , while an older man has some cream on his face .
+TopHypScore: (0.0063672917895, 0.993610918522, 2.17610540858e-05)
+
+Prm[62]: A man in a green jersey and rollerskates stumbles as a man in a black jersey appears to collide with him .
+Hyp[2][62]: The man stumbles stumbles in rollerskates .
+HypScore: (0.686216533184, 0.311997979879, 0.00178554933518)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (0.000214278756175, 0.0168523211032, 0.982933402061)
+
+TopHyp[1][5575]: a couple are reunited
+TopHypScore: (0.00357553409413, 0.0382838919759, 0.958140611649)
+
+TopHyp[2][7244]: The children are in the cafeteria .
+TopHypScore: (0.0155391814187, 0.0280066020787, 0.956454277039)
+
+TopHyp[3][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00615340704098, 0.0387351103127, 0.955111503601)
+
+TopHyp[4][3307]: A man with gloves and a flashlight .
+TopHypScore: (0.018728164956, 0.0307757947594, 0.950495958328)
+
+TopHyp[5][4198]: A couple of people stand on stage .
+TopHypScore: (0.00161887262948, 0.0485581643879, 0.949822902679)
+
+TopHyp[6][2939]: Two people stand by a building .
+TopHypScore: (0.00215144245885, 0.0491658709943, 0.948682665825)
+
+TopHyp[7][3624]: A man talks on a phone in a city .
+TopHypScore: (0.0468218959868, 0.00694558303803, 0.946232557297)
+
+TopHyp[8][7930]: A woman walks near a building .
+TopHypScore: (0.013471737504, 0.0526658594608, 0.933862447739)
+
+TopHyp[9][4521]: The car enthusiasts cheer .
+TopHypScore: (0.00185907760169, 0.0668957605958, 0.931245148182)
+
+Prm[63]: A group of onlookers glance at a person doing a strange trick on her head .
+Hyp[0][63]: A boy does a card trick .
+HypScore: (0.79885405302, 0.200769349933, 0.000376666925149)
+
+TopHyp[0][9787]: A lone child makes a snow angel in the snow
+TopHypScore: (1.0, 4.74977639442e-08, 5.17120677876e-12)
+
+TopHyp[1][8354]: Some people who are visible are not African American .
+TopHypScore: (1.0, 2.46074050025e-09, 2.35473402929e-12)
+
+TopHyp[2][6763]: A boy wears a blue shirt and sings in the rain .
+TopHypScore: (1.0, 4.22764756536e-09, 2.54741377732e-13)
+
+TopHyp[3][6690]: A dog at the dog groomers , gets a bath , a blow dry , and a nice brushing .
+TopHypScore: (1.0, 4.29338271601e-08, 2.12761160219e-17)
+
+TopHyp[4][6367]: Children are getting wet on purpose .
+TopHypScore: (1.0, 2.86760015733e-09, 9.11337825137e-15)
+
+TopHyp[5][5975]: A man with a lab coat works in a lab .
+TopHypScore: (1.0, 8.08407829567e-09, 9.2527363809e-13)
+
+TopHyp[6][3888]: Three women walk about coffee in class .
+TopHypScore: (1.0, 1.54766937044e-08, 4.50980442226e-12)
+
+TopHyp[7][2596]: People are competing in figure skating .
+TopHypScore: (1.0, 2.45383802167e-08, 9.148184597e-13)
+
+TopHyp[8][1879]: A basketball player is destroying the ball .
+TopHypScore: (1.0, 1.75108851863e-08, 3.22721948991e-12)
+
+TopHyp[9][1494]: A man in a blue shirt is sitting in the rain .
+TopHypScore: (1.0, 2.79315881535e-09, 7.00113740853e-13)
+
+Prm[64]: A group of onlookers glance at a person doing a strange trick on her head .
+Hyp[1][64]: Onlookers are impressed by the trick .
+HypScore: (0.112499892712, 0.487757235765, 0.399742871523)
+
+TopHyp[0][5185]: The woman has nothing in her hands .
+TopHypScore: (5.32068133907e-06, 0.999994635582, 5.25703356402e-08)
+
+TopHyp[1][274]: A boy is playing on an inflatable ride .
+TopHypScore: (2.11041678995e-05, 0.999978899956, 1.60440966068e-10)
+
+TopHyp[2][5811]: people are doing nothing
+TopHypScore: (2.70265081781e-05, 0.999969124794, 3.84784652852e-06)
+
+TopHyp[3][6801]: The man has nothing on his head .
+TopHypScore: (6.65745537844e-05, 0.999932527542, 8.51708477967e-07)
+
+TopHyp[4][1150]: They are holding a notepad .
+TopHypScore: (0.000119345851999, 0.999867916107, 1.27238263303e-05)
+
+TopHyp[5][9321]: The man is on a ship .
+TopHypScore: (0.000282864959445, 0.99946886301, 0.000248265685514)
+
+TopHyp[6][1595]: The man is excluded from the conversation
+TopHypScore: (0.000794553605374, 0.998823463917, 0.00038202421274)
+
+TopHyp[7][4910]: The subway is a busy place .
+TopHypScore: (0.00113420980051, 0.998757481575, 0.000108313841338)
+
+TopHyp[8][932]: A man is playing an acoustic guitar on the sidewalk while a woman and a man walk down the sidewalk .
+TopHypScore: (0.0016907522222, 0.998309135437, 1.64714919038e-07)
+
+TopHyp[9][9405]: The boy loves chocolate .
+TopHypScore: (0.00164108769968, 0.998268127441, 9.08146539587e-05)
+
+Prm[65]: A group of onlookers glance at a person doing a strange trick on her head .
+Hyp[2][65]: People watch another person do a trick .
+HypScore: (0.645857810974, 0.351831376553, 0.0023108671885)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (4.94375708513e-05, 0.00822938326746, 0.991721153259)
+
+TopHyp[1][7244]: The children are in the cafeteria .
+TopHypScore: (0.00411940971389, 0.00751158874482, 0.988368988037)
+
+TopHyp[2][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00451269000769, 0.0180456787348, 0.977441608906)
+
+TopHyp[3][2939]: Two people stand by a building .
+TopHypScore: (0.000960946141277, 0.0223120246083, 0.97672700882)
+
+TopHyp[4][5575]: a couple are reunited
+TopHypScore: (0.00245927087963, 0.0235231257975, 0.974017620087)
+
+TopHyp[5][8281]: People stand near the trash .
+TopHypScore: (0.00202669505961, 0.0242021735758, 0.973771154881)
+
+TopHyp[6][6001]: There are people near a beach .
+TopHypScore: (0.00352470064536, 0.0239134002477, 0.972561895847)
+
+TopHyp[7][2204]: people are dressed in costume
+TopHypScore: (0.00467344513163, 0.024437027052, 0.970889568329)
+
+TopHyp[8][7930]: A woman walks near a building .
+TopHypScore: (0.00453402195126, 0.0252815932035, 0.970184385777)
+
+TopHyp[9][4521]: The car enthusiasts cheer .
+TopHypScore: (0.000231875019381, 0.038786932826, 0.960981249809)
+
+Prm[66]: The middle eastern woman wearing the pink headscarf is walking beside a woman in a purple headscarf .
+Hyp[0][66]: Only one woman is wearing a head scarf .
+HypScore: (0.7093937397, 0.237197637558, 0.0534086376429)
+
+TopHyp[0][7976]: a woman calls her kids
+TopHypScore: (1.0, 1.44037989869e-10, 9.16875218327e-15)
+
+TopHyp[1][7090]: A woman throws food at a couple
+TopHypScore: (1.0, 1.680405326e-08, 7.39688699181e-10)
+
+TopHyp[2][6367]: Children are getting wet on purpose .
+TopHypScore: (1.0, 5.19696716217e-11, 2.23144636026e-16)
+
+TopHyp[3][5975]: A man with a lab coat works in a lab .
+TopHypScore: (1.0, 4.16170697903e-09, 2.64813496652e-12)
+
+TopHyp[4][4252]: A man is about to jump off a cliff into some water .
+TopHypScore: (1.0, 1.44734606522e-08, 8.46445987303e-14)
+
+TopHyp[5][2770]: A man throws a ball to a boy .
+TopHypScore: (1.0, 5.72507481422e-08, 3.48889564157e-13)
+
+TopHyp[6][1652]: Someone performing a jump with a bicycle .
+TopHypScore: (1.0, 6.101619765e-10, 6.13083057086e-14)
+
+TopHyp[7][1155]: a guy with a skateboard making a jump
+TopHypScore: (1.0, 1.93966869233e-08, 2.53437496683e-11)
+
+TopHyp[8][9302]: A woman is drinking from her water bottle with her feet in the water .
+TopHypScore: (0.999999880791, 1.48805455069e-07, 4.07669384361e-12)
+
+TopHyp[9][7734]: The people were talking about a game .
+TopHypScore: (0.999999880791, 1.43056780644e-07, 9.10222158063e-12)
+
+Prm[67]: The middle eastern woman wearing the pink headscarf is walking beside a woman in a purple headscarf .
+Hyp[1][67]: These two women are friends .
+HypScore: (0.636929214001, 0.320178180933, 0.0428926683962)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (2.12431814361e-06, 0.999997854233, 2.61089674186e-11)
+
+TopHyp[1][7574]: a boy kisses another boy
+TopHypScore: (3.78436088795e-05, 0.999962210655, 2.22411666861e-09)
+
+TopHyp[2][8601]: A young boy is playing hockey .
+TopHypScore: (9.58599339356e-05, 0.999903798103, 3.5238269902e-07)
+
+TopHyp[3][2166]: Three young men watching a tennis match on a screen outdoors , because their brother is playing .
+TopHypScore: (0.000101336940133, 0.999898076057, 6.26241273949e-07)
+
+TopHyp[4][6171]: A little boy is playing soccer outside .
+TopHypScore: (0.000101932149846, 0.999897956848, 1.30815394073e-07)
+
+TopHyp[5][6799]: Several male curling players sweeping their path on ice in front of a rock as a small crowd watches .
+TopHypScore: (0.000138845454785, 0.999860405922, 7.00986902302e-07)
+
+TopHyp[6][8270]: The boy is playing soccer .
+TopHypScore: (0.000220798436203, 0.999779045582, 1.23392339901e-07)
+
+TopHyp[7][2899]: The girl is wearing a black shirt and pants .
+TopHypScore: (0.000192351260921, 0.999759972095, 4.76509267173e-05)
+
+TopHyp[8][1786]: A man playing a guitar for a small crowd .
+TopHypScore: (0.000239556378801, 0.999759376049, 1.03645595573e-06)
+
+TopHyp[9][4513]: Several boys are playing basketball inside against each other .
+TopHypScore: (0.000240939480136, 0.999759018421, 4.79652193519e-08)
+
+Prm[68]: A taxi SUV drives past an urban construction site , as a man walks down the street in the other direction .
+Hyp[0][68]: A man is chasing an SUV that is going in the same direction as him .
+HypScore: (0.573575854301, 0.281036525965, 0.145387664437)
+
+TopHyp[0][62]: The man stumbles stumbles in rollerskates .
+TopHypScore: (0.999999761581, 2.43479860274e-07, 9.50715285712e-15)
+
+TopHyp[1][5083]: A police officer is sitting in his police car , racing towards a criminal .
+TopHypScore: (0.999999403954, 5.6905139445e-07, 8.84466805351e-11)
+
+TopHyp[2][5043]: Two men are sitting handcuffed in a police station .
+TopHypScore: (0.999998450279, 1.34522383632e-06, 2.72182688832e-07)
+
+TopHyp[3][4105]: There are several people in this photo , and they are all making music .
+TopHypScore: (0.999997735023, 2.09981317312e-06, 8.85406876705e-08)
+
+TopHyp[4][5526]: a police officer stands next to his motorcycle with another man in leather nearby
+TopHypScore: (0.999994039536, 5.99004897595e-06, 2.03112915376e-10)
+
+TopHyp[5][6507]: A man is sitting in a mall courtyard on a metal bench .
+TopHypScore: (0.999988555908, 1.07305140773e-05, 6.60243188122e-07)
+
+TopHyp[6][6690]: A dog at the dog groomers , gets a bath , a blow dry , and a nice brushing .
+TopHypScore: (0.999981164932, 1.88202011486e-05, 7.59614680185e-12)
+
+TopHyp[7][2607]: A man carrying a surfboard walking towards the ocean .
+TopHypScore: (0.999977469444, 2.22898179345e-05, 2.74802886224e-07)
+
+TopHyp[8][2055]: A thin woman glares at you over her salad .
+TopHypScore: (0.999974012375, 2.59732514678e-05, 1.76205036673e-10)
+
+TopHyp[9][8392]: Some men are sitting in a hottub .
+TopHypScore: (0.999966979027, 3.2919098885e-05, 1.59353135132e-07)
+
+Prm[69]: A taxi SUV drives past an urban construction site , as a man walks down the street in the other direction .
+Hyp[2][69]: An SUV and a man are going in opposite directions .
+HypScore: (0.699876368046, 0.170388936996, 0.129734694958)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (5.76633210585e-05, 0.00482669658959, 0.995115637779)
+
+TopHyp[1][3624]: A man talks on a phone in a city .
+TopHypScore: (0.0118784094229, 0.00181835098192, 0.986303269863)
+
+TopHyp[2][2939]: Two people stand by a building .
+TopHypScore: (0.00136009044945, 0.0189581140876, 0.97968184948)
+
+TopHyp[3][4198]: A couple of people stand on stage .
+TopHypScore: (0.00160669721663, 0.0207353215665, 0.977658033371)
+
+TopHyp[4][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00383787602186, 0.0224377252162, 0.973724365234)
+
+TopHyp[5][2049]: two people stand together outside
+TopHypScore: (0.00170609692577, 0.0296681895852, 0.968625724316)
+
+TopHyp[6][3806]: People stand in front of a building
+TopHypScore: (0.00550522329286, 0.0279238037765, 0.966571033001)
+
+TopHyp[7][3506]: People get together near a stand of bicycles .
+TopHypScore: (0.00257812696509, 0.0336532108486, 0.963768720627)
+
+TopHyp[8][9632]: Women are outside in front of a stand .
+TopHypScore: (0.00657480955124, 0.0298817902803, 0.96354341507)
+
+TopHyp[9][3504]: People socialize near a bicycle stand after the race .
+TopHypScore: (0.00257737236097, 0.035875633359, 0.961546957493)
+
+Prm[70]: A taxi SUV drives past an urban construction site , as a man walks down the street in the other direction .
+Hyp[1][70]: A taxi SUV races to pick up some clients while a man walks peacefully in the other direction .
+HypScore: (0.795653641224, 0.171087861061, 0.0332585722208)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (0.00189241277985, 0.998107433319, 1.71971080931e-07)
+
+TopHyp[1][7574]: a boy kisses another boy
+TopHypScore: (0.00753719545901, 0.992425680161, 3.71873611584e-05)
+
+TopHyp[2][5735]: The dog has nothing in its mouth .
+TopHypScore: (0.00754552707076, 0.992331504822, 0.000122871482745)
+
+TopHyp[3][8473]: A group of dancers is watching a movie
+TopHypScore: (0.00527193769813, 0.992106437683, 0.00262166466564)
+
+TopHyp[4][5811]: people are doing nothing
+TopHypScore: (0.00593813089654, 0.989032328129, 0.00502962013707)
+
+TopHyp[5][4174]: A shirtless man is entering a Wendy 's .
+TopHypScore: (0.0107498681173, 0.98874938488, 0.000500694673974)
+
+TopHyp[6][2105]: the Dog is black
+TopHypScore: (0.00583974272013, 0.988520979881, 0.00563922384754)
+
+TopHyp[7][6148]: A four piece male band which includes two saxophone players , a trumpet player and a trombone player are playing on an outdoor stage while two other males are dancing in front of the band .
+TopHypScore: (0.0120529299602, 0.98794400692, 3.07120990328e-06)
+
+TopHyp[8][2796]: A man buying ice cream at the movie theater .
+TopHypScore: (0.0125372214243, 0.987197399139, 0.000265320326434)
+
+TopHyp[9][2671]: Two wrestlers are in the ring .
+TopHypScore: (0.00942172762007, 0.987107098103, 0.00347123015672)
+
+Prm[71]: People wearing red shirts are standing in a large pool of water as it splashes over and around them .
+Hyp[0][71]: Nobody has a shirt on
+HypScore: (0.0081339199096, 0.990763604641, 0.00110258825589)
+
+TopHyp[0][351]: Two women sitting at their workplace desks .
+TopHypScore: (1.0, 5.06649797671e-08, 2.92486417031e-11)
+
+TopHyp[1][1494]: A man in a blue shirt is sitting in the rain .
+TopHypScore: (0.999998569489, 1.39712517466e-06, 7.7241022467e-09)
+
+TopHyp[2][8122]: A small dog is sitting in the rain .
+TopHypScore: (0.999992609024, 7.42581141822e-06, 1.80781203341e-08)
+
+TopHyp[3][6606]: Two women are sitting on a grassy hillside wearing bike helmets .
+TopHypScore: (0.999991416931, 8.60535419633e-06, 1.13368097132e-08)
+
+TopHyp[4][3177]: A man is caught in a rain storm with an umbrella .
+TopHypScore: (0.999991059303, 8.99426413525e-06, 1.21392327301e-08)
+
+TopHyp[5][2138]: Two women use umbrellas keep themselves dry from the rain
+TopHypScore: (0.999987483025, 1.25046044559e-05, 1.21931647001e-08)
+
+TopHyp[6][5975]: A man with a lab coat works in a lab .
+TopHypScore: (0.99998652935, 1.34990823426e-05, 1.0633373293e-08)
+
+TopHyp[7][5083]: A police officer is sitting in his police car , racing towards a criminal .
+TopHypScore: (0.999985575676, 1.4474820091e-05, 1.95286720128e-08)
+
+TopHyp[8][5043]: Two men are sitting handcuffed in a police station .
+TopHypScore: (0.999983072281, 1.47158034451e-05, 2.23169217861e-06)
+
+TopHyp[9][6690]: A dog at the dog groomers , gets a bath , a blow dry , and a nice brushing .
+TopHypScore: (0.999982595444, 1.73608077603e-05, 8.07574425626e-15)
+
+Prm[72]: People wearing red shirts are standing in a large pool of water as it splashes over and around them .
+Hyp[2][72]: A person in a shirt
+HypScore: (0.0186986308545, 0.723109900951, 0.258191466331)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (2.85907935904e-05, 0.0189096480608, 0.981061756611)
+
+TopHyp[1][6001]: There are people near a beach .
+TopHypScore: (0.0039412016049, 0.0198216568679, 0.976237177849)
+
+TopHyp[2][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00183490256313, 0.0240510180593, 0.974114120007)
+
+TopHyp[3][7930]: A woman walks near a building .
+TopHypScore: (0.00538383424282, 0.0373841002584, 0.957231998444)
+
+TopHyp[4][7244]: The children are in the cafeteria .
+TopHypScore: (0.00572126777843, 0.0519141219556, 0.942364573479)
+
+TopHyp[5][8616]: A woman using a microscope .
+TopHypScore: (0.00230603059754, 0.0555526725948, 0.942141354084)
+
+TopHyp[6][3624]: A man talks on a phone in a city .
+TopHypScore: (0.0444109514356, 0.0218678731471, 0.933721184731)
+
+TopHyp[7][525]: Two people are near the water .
+TopHypScore: (0.0184080209583, 0.0516722463071, 0.929919779301)
+
+TopHyp[8][3307]: A man with gloves and a flashlight .
+TopHypScore: (0.031213844195, 0.0399195812643, 0.928866565228)
+
+TopHyp[9][2939]: Two people stand by a building .
+TopHypScore: (0.00122630759142, 0.0710005834699, 0.927773118019)
+
+Prm[73]: People wearing red shirts are standing in a large pool of water as it splashes over and around them .
+Hyp[1][73]: A tall person in a shirt
+HypScore: (0.0221829432994, 0.878003716469, 0.0998133048415)
+
+TopHyp[0][5222]: The man is a runner
+TopHypScore: (7.31017426006e-05, 0.99987924099, 4.76247623737e-05)
+
+TopHyp[1][8473]: A group of dancers is watching a movie
+TopHypScore: (0.000108415915747, 0.999864578247, 2.69811916951e-05)
+
+TopHyp[2][8342]: The girl has a green shirt .
+TopHypScore: (0.000125092803501, 0.999810516834, 6.43252278678e-05)
+
+TopHyp[3][5811]: people are doing nothing
+TopHypScore: (0.00013130348816, 0.999806940556, 6.17008408881e-05)
+
+TopHyp[4][108]: A man is watching a movie in a theater .
+TopHypScore: (0.000209238743992, 0.999782383442, 8.34037018649e-06)
+
+TopHyp[5][4174]: A shirtless man is entering a Wendy 's .
+TopHypScore: (0.000245069473749, 0.999750912189, 4.06911203754e-06)
+
+TopHyp[6][2899]: The girl is wearing a black shirt and pants .
+TopHypScore: (0.000261107459664, 0.999696135521, 4.27954837505e-05)
+
+TopHyp[7][1150]: They are holding a notepad .
+TopHypScore: (0.000247206102358, 0.999696016312, 5.68188006582e-05)
+
+TopHyp[8][6978]: The man is watching tv
+TopHypScore: (0.000314007600537, 0.99960154295, 8.44319874886e-05)
+
+TopHyp[9][1441]: The jacket is fleece
+TopHypScore: (0.000360914855264, 0.999549925327, 8.91235322342e-05)
+
+Prm[74]: A man in a white t-shirt takes a picture in the middle of the street with two public buses in the background .
+Hyp[0][74]: A man is wearing a black shirt
+HypScore: (0.00686625344679, 0.986160218716, 0.00697348592803)
+
+TopHyp[0][4105]: There are several people in this photo , and they are all making music .
+TopHypScore: (1.0, 4.45609984467e-08, 1.94014054822e-10)
+
+TopHyp[1][5338]: Some people are enjoying themselves at a musical .
+TopHypScore: (0.999999880791, 1.09245412716e-07, 3.32857144625e-11)
+
+TopHyp[2][3414]: two pedestrians walk on a cobblestone road past a cafe in France
+TopHypScore: (0.999998211861, 1.81703831004e-06, 1.66002611657e-09)
+
+TopHyp[3][6690]: A dog at the dog groomers , gets a bath , a blow dry , and a nice brushing .
+TopHypScore: (0.999997496605, 2.50089806286e-06, 1.96395155557e-15)
+
+TopHyp[4][1407]: A motor-cross rider watch TV on his motorcycle .
+TopHypScore: (0.999997496605, 2.46525041803e-06, 8.67923528186e-12)
+
+TopHyp[5][351]: Two women sitting at their workplace desks .
+TopHypScore: (0.999996066093, 3.89228716813e-06, 4.49370229916e-09)
+
+TopHyp[6][2138]: Two women use umbrellas keep themselves dry from the rain
+TopHypScore: (0.999994754791, 5.27789688931e-06, 1.34768667337e-08)
+
+TopHyp[7][5083]: A police officer is sitting in his police car , racing towards a criminal .
+TopHypScore: (0.999994516373, 5.53199424758e-06, 6.41879827068e-10)
+
+TopHyp[8][1494]: A man in a blue shirt is sitting in the rain .
+TopHypScore: (0.999992728233, 7.19690478945e-06, 1.08205064464e-07)
+
+TopHyp[9][5134]: Four people , One male in a blue shirt and slacks with three females , one in pink , one in blue , and the other with a blue shirt and blue blouse , in line to enter a yellow school bus , while a female in pink hold paper is on the phone .
+TopHypScore: (0.999992132187, 7.88277975516e-06, 1.37851251744e-18)
+
+Prm[75]: A man in a white t-shirt takes a picture in the middle of the street with two public buses in the background .
+Hyp[2][75]: A man is wearing a white shirt
+HypScore: (0.0135653838515, 0.950673162937, 0.035761397332)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (2.51293149631e-05, 0.000681232486386, 0.99929356575)
+
+TopHyp[1][2939]: Two people stand by a building .
+TopHypScore: (0.000426839455031, 0.00351814273745, 0.996055006981)
+
+TopHyp[2][4198]: A couple of people stand on stage .
+TopHypScore: (0.00048891705228, 0.00563730299473, 0.99387383461)
+
+TopHyp[3][3831]: a woman is walking down the street
+TopHypScore: (0.00112969882321, 0.00692239962518, 0.991947948933)
+
+TopHyp[4][5212]: A woman walking down the street .
+TopHypScore: (0.00111229217146, 0.00845891144127, 0.990428805351)
+
+TopHyp[5][405]: A naked man walking down the street .
+TopHypScore: (0.00129123521037, 0.0112227210775, 0.987486064434)
+
+TopHyp[6][1607]: A kid is with a woman .
+TopHypScore: (0.00168966711499, 0.0111370300874, 0.987173318863)
+
+TopHyp[7][2049]: two people stand together outside
+TopHypScore: (0.00216601509601, 0.0108118923381, 0.987022101879)
+
+TopHyp[8][5029]: A man and a woman stand in the street at night
+TopHypScore: (0.00252656941302, 0.0114826541394, 0.985990703106)
+
+TopHyp[9][7350]: People are running down the street .
+TopHypScore: (0.00242997310124, 0.0138024454936, 0.98376762867)
+
+Prm[76]: A man in a white t-shirt takes a picture in the middle of the street with two public buses in the background .
+Hyp[1][76]: A man is taking photos while on tour in nyc
+HypScore: (0.386770576239, 0.576750338078, 0.036479074508)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (2.87091847895e-06, 0.999997138977, 3.07200029304e-11)
+
+TopHyp[1][7574]: a boy kisses another boy
+TopHypScore: (1.00856304925e-05, 0.99998986721, 1.24455459272e-08)
+
+TopHyp[2][932]: A man is playing an acoustic guitar on the sidewalk while a woman and a man walk down the sidewalk .
+TopHypScore: (9.45558931562e-05, 0.999905467033, 4.31974491732e-08)
+
+TopHyp[3][3215]: A soccer team are playing in soccer field
+TopHypScore: (0.000132948305691, 0.999866843224, 2.46234009182e-07)
+
+TopHyp[4][8270]: The boy is playing soccer .
+TopHypScore: (0.000136531831231, 0.999863386154, 1.54735388946e-07)
+
+TopHyp[5][9571]: Football players are playing chess .
+TopHypScore: (0.000232430669712, 0.999766409397, 1.23456186429e-06)
+
+TopHyp[6][4513]: Several boys are playing basketball inside against each other .
+TopHypScore: (0.000268615200184, 0.999731361866, 5.74018770294e-08)
+
+TopHyp[7][6801]: The man has nothing on his head .
+TopHypScore: (0.000283643224975, 0.999647140503, 6.92492103553e-05)
+
+TopHyp[8][6171]: A little boy is playing soccer outside .
+TopHypScore: (0.000360100762919, 0.999639630318, 2.87716346747e-07)
+
+TopHyp[9][2693]: an asian wears a red backpack
+TopHypScore: (0.000362081627827, 0.999636530876, 1.42143926496e-06)
+
+Prm[77]: A shirtless man is singing into a microphone while a woman next to him plays an accordion .
+Hyp[1][77]: He is Polish .
+HypScore: (0.0052256998606, 0.836907446384, 0.157866880298)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (0.000114657515951, 0.999885320663, 1.484704093e-08)
+
+TopHyp[1][2671]: Two wrestlers are in the ring .
+TopHypScore: (0.000620295235422, 0.999351203442, 2.84131347144e-05)
+
+TopHyp[2][5811]: people are doing nothing
+TopHypScore: (0.000603886204772, 0.998955130577, 0.000440926960437)
+
+TopHyp[3][7574]: a boy kisses another boy
+TopHypScore: (0.00128939084243, 0.998709559441, 1.12715883915e-06)
+
+TopHyp[4][1150]: They are holding a notepad .
+TopHypScore: (0.000887519796379, 0.998312354088, 0.000800077279564)
+
+TopHyp[5][6801]: The man has nothing on his head .
+TopHypScore: (0.00185360235628, 0.99789583683, 0.00025052955607)
+
+TopHyp[6][5185]: The woman has nothing in her hands .
+TopHypScore: (0.00246711703949, 0.997509717941, 2.31481899391e-05)
+
+TopHyp[7][9571]: Football players are playing chess .
+TopHypScore: (0.00236388086341, 0.997429311275, 0.000206729106139)
+
+TopHyp[8][6171]: A little boy is playing soccer outside .
+TopHypScore: (0.00337387807667, 0.996586322784, 3.97398762289e-05)
+
+TopHyp[9][932]: A man is playing an acoustic guitar on the sidewalk while a woman and a man walk down the sidewalk .
+TopHypScore: (0.004030065611, 0.995961368084, 8.54650534166e-06)
+
+Prm[78]: A shirtless man is singing into a microphone while a woman next to him plays an accordion .
+Hyp[0][78]: He is playing a saxophone .
+HypScore: (0.187322258949, 0.594162225723, 0.21851554513)
+
+TopHyp[0][9787]: A lone child makes a snow angel in the snow
+TopHypScore: (1.0, 3.02297316068e-08, 1.77055488326e-11)
+
+TopHyp[1][9542]: There 's a crowd of people at the park , and a big dog gets in into the act , catching a Frisbee in its mouth .
+TopHypScore: (1.0, 3.45677686475e-09, 9.5287070663e-18)
+
+TopHyp[2][8880]: In a wide open , treeless field , an elephant is being chased by a mouse .
+TopHypScore: (1.0, 8.97711416314e-09, 6.33716635686e-15)
+
+TopHyp[3][8122]: A small dog is sitting in the rain .
+TopHypScore: (1.0, 1.64842202111e-08, 8.55854536547e-12)
+
+TopHyp[4][6690]: A dog at the dog groomers , gets a bath , a blow dry , and a nice brushing .
+TopHypScore: (1.0, 5.68568065892e-12, 2.11920845659e-20)
+
+TopHyp[5][6606]: Two women are sitting on a grassy hillside wearing bike helmets .
+TopHypScore: (1.0, 9.7195620441e-09, 1.69974960756e-12)
+
+TopHyp[6][5134]: Four people , One male in a blue shirt and slacks with three females , one in pink , one in blue , and the other with a blue shirt and blue blouse , in line to enter a yellow school bus , while a female in pink hold paper is on the phone .
+TopHypScore: (1.0, 9.30994378812e-11, 8.6728876222e-23)
+
+TopHyp[7][2138]: Two women use umbrellas keep themselves dry from the rain
+TopHypScore: (1.0, 4.37785310226e-08, 7.05788552602e-11)
+
+TopHyp[8][1771]: Male in brown leather jacket and tight black slacks , looking down at his phone
+TopHypScore: (1.0, 1.04757047481e-09, 6.2192902873e-15)
+
+TopHyp[9][1770]: Male in brown leather jacket and black slacks , looking down at his giraffe
+TopHypScore: (1.0, 2.28251293734e-12, 1.96265580149e-20)
+
+Prm[79]: A shirtless man is singing into a microphone while a woman next to him plays an accordion .
+Hyp[2][79]: A man is singing into a microphone .
+HypScore: (0.0524157620966, 0.182008087635, 0.765576183796)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (5.37048726983e-05, 0.0097195841372, 0.990226745605)
+
+TopHyp[1][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00161763117649, 0.014713565819, 0.983668863773)
+
+TopHyp[2][8616]: A woman using a microscope .
+TopHypScore: (0.000805362535175, 0.0185898020864, 0.980604887009)
+
+TopHyp[3][957]: A girl is doing work in a classroom .
+TopHypScore: (0.00176598923281, 0.0192611664534, 0.97897285223)
+
+TopHyp[4][5575]: a couple are reunited
+TopHypScore: (0.00112720916513, 0.0239035990089, 0.974969208241)
+
+TopHyp[5][2177]: The man is near the car .
+TopHypScore: (0.00169202394318, 0.0252559091896, 0.973052084446)
+
+TopHyp[6][6001]: There are people near a beach .
+TopHypScore: (0.0116653898731, 0.0160004328936, 0.972334206104)
+
+TopHyp[7][7930]: A woman walks near a building .
+TopHypScore: (0.00388006982394, 0.024856088683, 0.971263885498)
+
+TopHyp[8][8609]: People watching a car .
+TopHypScore: (0.00171044573653, 0.0276192799211, 0.970670223236)
+
+TopHyp[9][2204]: people are dressed in costume
+TopHypScore: (0.0029483505059, 0.0295466557145, 0.96750497818)
+
+Prm[80]: Women and children sitting outside in the shade while a group of younger children sitting inside in the shade .
+Hyp[1][80]: It is very sunny outside .
+HypScore: (0.821199119091, 0.16569493711, 0.0131059773266)
+
+TopHyp[0][2166]: Three young men watching a tennis match on a screen outdoors , because their brother is playing .
+TopHypScore: (0.000607643451076, 0.999389052391, 3.3045400869e-06)
+
+TopHyp[1][274]: A boy is playing on an inflatable ride .
+TopHypScore: (0.00211923802271, 0.99788081646, 4.81576485356e-08)
+
+TopHyp[2][4784]: The young women is outside .
+TopHypScore: (0.0028341517318, 0.996327459812, 0.000838395499159)
+
+TopHyp[3][932]: A man is playing an acoustic guitar on the sidewalk while a woman and a man walk down the sidewalk .
+TopHypScore: (0.00372723583132, 0.996271252632, 1.5591592728e-06)
+
+TopHyp[4][5164]: Two young girls have fun on a trampoline , one of which appears to be falling down onto her back while the other poses with a smile behind her and waving .
+TopHypScore: (0.00438932329416, 0.995576739311, 3.39870130119e-05)
+
+TopHyp[5][2899]: The girl is wearing a black shirt and pants .
+TopHypScore: (0.00508034741506, 0.994742631912, 0.000177014022483)
+
+TopHyp[6][4174]: A shirtless man is entering a Wendy 's .
+TopHypScore: (0.00663718720898, 0.993321955204, 4.08573869208e-05)
+
+TopHyp[7][4513]: Several boys are playing basketball inside against each other .
+TopHypScore: (0.00721964100376, 0.992771804333, 8.51328695717e-06)
+
+TopHyp[8][9571]: Football players are playing chess .
+TopHypScore: (0.00704589486122, 0.99270516634, 0.000248885306064)
+
+TopHyp[9][7521]: The women are going on a voyage .
+TopHypScore: (0.00316463992931, 0.992485225201, 0.00435018958524)
+
+Prm[81]: Women and children sitting outside in the shade while a group of younger children sitting inside in the shade .
+Hyp[2][81]: The woman and kids and sitting down .
+HypScore: (0.999848008156, 0.000148401464685, 3.52522533831e-06)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (0.00119565229397, 0.0146136758849, 0.984190642834)
+
+TopHyp[1][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00433154357597, 0.0181178618222, 0.977550566196)
+
+TopHyp[2][2049]: two people stand together outside
+TopHypScore: (0.00873588491231, 0.0361316427588, 0.955132544041)
+
+TopHyp[3][2939]: Two people stand by a building .
+TopHypScore: (0.0131243336946, 0.0355724617839, 0.951303243637)
+
+TopHyp[4][2204]: people are dressed in costume
+TopHypScore: (0.0150116216391, 0.0377710610628, 0.947217345238)
+
+TopHyp[5][7930]: A woman walks near a building .
+TopHypScore: (0.0206598807126, 0.0334585830569, 0.945881545544)
+
+TopHyp[6][3504]: People socialize near a bicycle stand after the race .
+TopHypScore: (0.00837062206119, 0.0468926206231, 0.944736778736)
+
+TopHyp[7][7086]: A man looks at a pile of colored vegetables on a car outside .
+TopHypScore: (0.00960194598883, 0.0484024435282, 0.941995561123)
+
+TopHyp[8][5809]: people are building a bike shed
+TopHypScore: (0.00986862741411, 0.0495624057949, 0.94056892395)
+
+TopHyp[9][4198]: A couple of people stand on stage .
+TopHypScore: (0.0180738102645, 0.0436654165387, 0.938260793686)
+
+Prm[82]: Women and children sitting outside in the shade while a group of younger children sitting inside in the shade .
+Hyp[0][82]: The woman is running .
+HypScore: (0.206990838051, 0.413475513458, 0.379533648491)
+
+TopHyp[0][6367]: Children are getting wet on purpose .
+TopHypScore: (1.0, 8.65119781368e-11, 4.51750887556e-16)
+
+TopHyp[1][3898]: Someone is playing jump rope .
+TopHypScore: (1.0, 4.85226010483e-08, 1.41181461121e-14)
+
+TopHyp[2][1652]: Someone performing a jump with a bicycle .
+TopHypScore: (1.0, 5.33283603943e-08, 3.40822950916e-14)
+
+TopHyp[3][5975]: A man with a lab coat works in a lab .
+TopHypScore: (0.999999880791, 7.11136536324e-08, 2.4135281447e-12)
+
+TopHyp[4][5897]: A band plays at a beach party .
+TopHypScore: (0.999999523163, 5.04189699768e-07, 6.35051655706e-09)
+
+TopHyp[5][2777]: Four people are standing in front of a building .
+TopHypScore: (0.999998927116, 1.07594155452e-06, 3.23667883606e-08)
+
+TopHyp[6][1155]: a guy with a skateboard making a jump
+TopHypScore: (0.999998927116, 1.09936831905e-06, 2.80205910558e-11)
+
+TopHyp[7][2770]: A man throws a ball to a boy .
+TopHypScore: (0.999998807907, 1.19083131267e-06, 1.51260740044e-10)
+
+TopHyp[8][2454]: A man 's feet are not touching the ground .
+TopHypScore: (0.999998807907, 1.24311509353e-06, 4.49546178061e-10)
+
+TopHyp[9][3004]: two women jump for joy
+TopHypScore: (0.999997854233, 2.15501154344e-06, 8.6486018e-12)
+
+Prm[83]: A pregnant lady singing on stage while holding a flag behind her .
+Hyp[0][83]: A woman is sick in bed .
+HypScore: (0.145803019404, 0.66956782341, 0.184629157186)
+
+TopHyp[0][9787]: A lone child makes a snow angel in the snow
+TopHypScore: (1.0, 3.6481967669e-08, 4.06335173841e-11)
+
+TopHyp[1][8122]: A small dog is sitting in the rain .
+TopHypScore: (1.0, 2.39807409486e-08, 3.35728354839e-11)
+
+TopHyp[2][6367]: Children are getting wet on purpose .
+TopHypScore: (1.0, 7.02945826547e-11, 8.59322177709e-16)
+
+TopHyp[3][1494]: A man in a blue shirt is sitting in the rain .
+TopHypScore: (1.0, 3.08891152656e-08, 3.14494368048e-11)
+
+TopHyp[4][351]: Two women sitting at their workplace desks .
+TopHypScore: (1.0, 1.83844872659e-09, 9.88150872434e-14)
+
+TopHyp[5][9346]: Players sitting at the locker room .
+TopHypScore: (0.999999880791, 9.57932257961e-08, 7.5276562761e-10)
+
+TopHyp[6][8354]: Some people who are visible are not African American .
+TopHypScore: (0.999999880791, 1.34884643899e-07, 5.09468890686e-11)
+
+TopHyp[7][6763]: A boy wears a blue shirt and sings in the rain .
+TopHypScore: (0.999999880791, 1.23075793113e-07, 1.26266774814e-11)
+
+TopHyp[8][4105]: There are several people in this photo , and they are all making music .
+TopHypScore: (0.999999880791, 1.4939671189e-07, 1.79466150274e-10)
+
+TopHyp[9][2596]: People are competing in figure skating .
+TopHypScore: (0.999999880791, 1.17872083649e-07, 9.06053357341e-11)
+
+Prm[84]: A pregnant lady singing on stage while holding a flag behind her .
+Hyp[2][84]: A woman is making music .
+HypScore: (0.921580374241, 0.0537463836372, 0.0246732532978)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (9.37132863328e-05, 0.00585005059838, 0.994056224823)
+
+TopHyp[1][2939]: Two people stand by a building .
+TopHypScore: (0.00171111361124, 0.0161309521645, 0.982157945633)
+
+TopHyp[2][4198]: A couple of people stand on stage .
+TopHypScore: (0.00278391479515, 0.0282863955945, 0.968929708004)
+
+TopHyp[3][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00872253254056, 0.0227119289339, 0.968565583229)
+
+TopHyp[4][3506]: People get together near a stand of bicycles .
+TopHypScore: (0.00314436713234, 0.0385084599257, 0.958347141743)
+
+TopHyp[5][8025]: Women are holding a flag
+TopHypScore: (0.0130457077175, 0.0289707258344, 0.95798355341)
+
+TopHyp[6][1607]: A kid is with a woman .
+TopHypScore: (0.00408502481878, 0.0399596169591, 0.955955386162)
+
+TopHyp[7][2049]: two people stand together outside
+TopHypScore: (0.00303835025989, 0.0432394556701, 0.953722238541)
+
+TopHyp[8][3806]: People stand in front of a building
+TopHypScore: (0.0118383448571, 0.0359144732356, 0.952247142792)
+
+TopHyp[9][7930]: A woman walks near a building .
+TopHypScore: (0.0162354055792, 0.0326063074172, 0.951158225536)
+
+Prm[85]: A pregnant lady singing on stage while holding a flag behind her .
+Hyp[1][85]: A lady is participating in a talent show .
+HypScore: (0.880954682827, 0.0816775411367, 0.0373678095639)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (2.59446078417e-05, 0.999974012375, 1.16716315432e-11)
+
+TopHyp[1][5164]: Two young girls have fun on a trampoline , one of which appears to be falling down onto her back while the other poses with a smile behind her and waving .
+TopHypScore: (2.87543734885e-05, 0.999971032143, 1.99469397444e-07)
+
+TopHyp[2][932]: A man is playing an acoustic guitar on the sidewalk while a woman and a man walk down the sidewalk .
+TopHypScore: (5.14217135787e-05, 0.999948620796, 1.37499860386e-08)
+
+TopHyp[3][1825]: A sad girl in a green knit cap stands ready to push a sled , with a little boy behind her .
+TopHypScore: (0.000123105579405, 0.999876856804, 1.19258958264e-08)
+
+TopHyp[4][1957]: A festival displays two men dressed up in red makeup and costume , while an older man has some cream on his face .
+TopHypScore: (0.000132598797791, 0.99986743927, 1.68578567772e-10)
+
+TopHyp[5][6085]: A man in a jacket holds a small child while petting his dog near a woman holding a small boy and her dog .
+TopHypScore: (0.000170264072949, 0.999829173088, 4.40527401224e-07)
+
+TopHyp[6][5162]: Two young girls have fun on a trampoline , one of which appears to be falling down onto her back while the other poses with a smile behind her .
+TopHypScore: (0.000199688976863, 0.99979954958, 8.58444593632e-07)
+
+TopHyp[7][8869]: There is a man watching another man .
+TopHypScore: (0.000252858735621, 0.999734818935, 1.23286217786e-05)
+
+TopHyp[8][2471]: jockey wearing a blue jacket is riding a dark brown horse in a gallop racing in front of his competitors .
+TopHypScore: (0.000276763865259, 0.999621152878, 0.000102002333733)
+
+TopHyp[9][1786]: A man playing a guitar for a small crowd .
+TopHypScore: (0.000468724174425, 0.999528765678, 2.47335447057e-06)
+
+Prm[86]: The two farmers are working on a piece of John Deere equipment .
+Hyp[2][86]: Men are working on John Deere equipment
+HypScore: (0.621362030506, 0.309616297483, 0.0690216422081)
+
+TopHyp[0][7244]: The children are in the cafeteria .
+TopHypScore: (0.0033518592827, 0.00938736554235, 0.987260818481)
+
+TopHyp[1][4146]: people stand near pole
+TopHypScore: (1.85313583643e-05, 0.0269088577479, 0.973072648048)
+
+TopHyp[2][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00452044839039, 0.0227356944233, 0.972743809223)
+
+TopHyp[3][4521]: The car enthusiasts cheer .
+TopHypScore: (0.000115261631436, 0.033500701189, 0.96638405323)
+
+TopHyp[4][3624]: A man talks on a phone in a city .
+TopHypScore: (0.040799729526, 0.00397220114246, 0.955228030682)
+
+TopHyp[5][2144]: A woman in a restaurant .
+TopHypScore: (0.0067015173845, 0.0382548458874, 0.955043673515)
+
+TopHyp[6][7930]: A woman walks near a building .
+TopHypScore: (0.00500173820183, 0.041413847357, 0.953584432602)
+
+TopHyp[7][3850]: A lady is looking in a car at a dog .
+TopHypScore: (0.00435146037489, 0.0421335250139, 0.953514993191)
+
+TopHyp[8][2204]: people are dressed in costume
+TopHypScore: (0.0044255326502, 0.0436556637287, 0.951918780804)
+
+TopHyp[9][6211]: Nobody is drinking
+TopHypScore: (0.0130460299551, 0.0365691967309, 0.950384736061)
+
+Prm[87]: The two farmers are working on a piece of John Deere equipment .
+Hyp[2][87]: John Deere equipment is being worked on by two farmers
+HypScore: (0.0650403499603, 0.871337890625, 0.0636217743158)
+
+TopHyp[0][7244]: The children are in the cafeteria .
+TopHypScore: (0.0033518592827, 0.00938736554235, 0.987260818481)
+
+TopHyp[1][4146]: people stand near pole
+TopHypScore: (1.85313583643e-05, 0.0269088577479, 0.973072648048)
+
+TopHyp[2][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00452044839039, 0.0227356944233, 0.972743809223)
+
+TopHyp[3][4521]: The car enthusiasts cheer .
+TopHypScore: (0.000115261631436, 0.033500701189, 0.96638405323)
+
+TopHyp[4][3624]: A man talks on a phone in a city .
+TopHypScore: (0.040799729526, 0.00397220114246, 0.955228030682)
+
+TopHyp[5][2144]: A woman in a restaurant .
+TopHypScore: (0.0067015173845, 0.0382548458874, 0.955043673515)
+
+TopHyp[6][7930]: A woman walks near a building .
+TopHypScore: (0.00500173820183, 0.041413847357, 0.953584432602)
+
+TopHyp[7][3850]: A lady is looking in a car at a dog .
+TopHypScore: (0.00435146037489, 0.0421335250139, 0.953514993191)
+
+TopHyp[8][2204]: people are dressed in costume
+TopHypScore: (0.0044255326502, 0.0436556637287, 0.951918780804)
+
+TopHyp[9][6211]: Nobody is drinking
+TopHypScore: (0.0130460299551, 0.0365691967309, 0.950384736061)
+
+Prm[88]: The two farmers are working on a piece of John Deere equipment .
+Hyp[0][88]: 2 Men are making a pool together
+HypScore: (0.80472356081, 0.186447560787, 0.00882890820503)
+
+TopHyp[0][6367]: Children are getting wet on purpose .
+TopHypScore: (1.0, 7.60005058886e-10, 9.12666819832e-15)
+
+TopHyp[1][5975]: A man with a lab coat works in a lab .
+TopHypScore: (0.999999642372, 4.07514818335e-07, 3.87545689984e-11)
+
+TopHyp[2][2770]: A man throws a ball to a boy .
+TopHypScore: (0.999999523163, 4.60330312535e-07, 6.01649979837e-11)
+
+TopHyp[3][2805]: Two kids are getting water .
+TopHypScore: (0.999997973442, 2.0563520593e-06, 3.48586226551e-09)
+
+TopHyp[4][6815]: The two kids fight over puzzle pieces .
+TopHypScore: (0.999997258186, 2.71666704066e-06, 9.79806014101e-10)
+
+TopHyp[5][1652]: Someone performing a jump with a bicycle .
+TopHypScore: (0.999996066093, 3.886129889e-06, 7.57030493848e-10)
+
+TopHyp[6][3898]: Someone is playing jump rope .
+TopHypScore: (0.999993443489, 6.61100511934e-06, 5.12385467388e-10)
+
+TopHyp[7][7976]: a woman calls her kids
+TopHypScore: (0.99999332428, 6.72781061439e-06, 7.94143195648e-10)
+
+TopHyp[8][2596]: People are competing in figure skating .
+TopHypScore: (0.999992251396, 7.78872254159e-06, 2.9218819031e-10)
+
+TopHyp[9][806]: A man works with an anvil .
+TopHypScore: (0.999989748001, 1.02229050754e-05, 8.24054424697e-09)
+
+Prm[89]: A little boy in a blue shirt holding a toy .
+Hyp[1][89]: Boy dressed in blue carrying toy to a toybox .
+HypScore: (0.820746004581, 0.155610889196, 0.0236430577934)
+
+TopHyp[0][4675]: A man in a blue shirt , khaki shorts , ball cap and blue socks and loafers walking behind a group of people walking down a stone walkway with a water bottle in his left hand .
+TopHypScore: (1.44011701195e-05, 0.999970316887, 1.52201273522e-05)
+
+TopHyp[1][274]: A boy is playing on an inflatable ride .
+TopHypScore: (5.06218748342e-05, 0.999949336052, 4.41543157592e-09)
+
+TopHyp[2][1825]: A sad girl in a green knit cap stands ready to push a sled , with a little boy behind her .
+TopHypScore: (0.000237068044953, 0.999761521816, 1.39828807733e-06)
+
+TopHyp[3][7574]: a boy kisses another boy
+TopHypScore: (0.000297808612231, 0.999700665474, 1.56227190473e-06)
+
+TopHyp[4][1826]: A boy in a green knit cap stands ready to push a sled , with a little boy behind him .
+TopHypScore: (0.000330215931172, 0.999666810036, 2.96302187053e-06)
+
+TopHyp[5][6760]: Four people are lined up one behind another and they are holding their arms out so it looks like the arms all belong to the first person , a red haired woman in a bikini top .
+TopHypScore: (0.00100652035326, 0.998993337154, 8.5229693525e-08)
+
+TopHyp[6][1991]: A dark-haired girl in a spotted shirt is pointing at the picture while sitting next to a boy wearing a purple shirt and jeans .
+TopHypScore: (0.00101888924837, 0.998975515366, 5.56426994081e-06)
+
+TopHyp[7][6759]: Four young people are lined up behind another and they are holding their arms out so it looks like the arms all belong to the first person , a red haired woman in a bikini top .
+TopHypScore: (0.00117502047215, 0.998825013638, 1.98824228193e-08)
+
+TopHyp[8][8932]: Three men in matching jackets are standing together , one looking at a nearby person , the other two looking at a phone .
+TopHypScore: (0.000923187239096, 0.998688280582, 0.00038857763866)
+
+TopHyp[9][6171]: A little boy is playing soccer outside .
+TopHypScore: (0.00141954259016, 0.998537302017, 4.32514461863e-05)
+
+Prm[90]: A little boy in a blue shirt holding a toy .
+Hyp[0][90]: Boy dressed in red lighting things on fire .
+HypScore: (0.564485251904, 0.406832426786, 0.0286823082715)
+
+TopHyp[0][62]: The man stumbles stumbles in rollerskates .
+TopHypScore: (0.999999761581, 2.53722816979e-07, 2.52090388223e-15)
+
+TopHyp[1][8260]: man in bear suit
+TopHypScore: (0.999999642372, 4.15575328816e-07, 5.79431214121e-09)
+
+TopHyp[2][2454]: A man 's feet are not touching the ground .
+TopHypScore: (0.999999284744, 6.59693910166e-07, 3.66508989824e-10)
+
+TopHyp[3][9047]: While drinking beer a man is dancing with another man
+TopHypScore: (0.99999833107, 1.65301162269e-06, 6.26137364179e-09)
+
+TopHyp[4][6900]: Two men are waiting for their other friend .
+TopHypScore: (0.999997615814, 2.21177401727e-06, 7.61818270689e-08)
+
+TopHyp[5][8392]: Some men are sitting in a hottub .
+TopHypScore: (0.999997377396, 2.64890377366e-06, 8.5666869154e-09)
+
+TopHyp[6][5043]: Two men are sitting handcuffed in a police station .
+TopHypScore: (0.999997019768, 2.93217203762e-06, 2.952469913e-08)
+
+TopHyp[7][4686]: One man serenades the other man .
+TopHypScore: (0.999996542931, 3.45865282725e-06, 2.80045373557e-08)
+
+TopHyp[8][5300]: The asian man is moving through a puddle .
+TopHypScore: (0.999996423721, 3.5928987927e-06, 3.32781588952e-08)
+
+TopHyp[9][1419]: A man throws a football .
+TopHypScore: (0.999996304512, 3.33840444e-06, 3.73568951773e-07)
+
+Prm[91]: A little boy in a blue shirt holding a toy .
+Hyp[2][91]: Boy dressed in blue holds a toy .
+HypScore: (0.27277636528, 0.633269786835, 0.0939538404346)
+
+TopHyp[0][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00424278620631, 0.0218050871044, 0.973952174187)
+
+TopHyp[1][3624]: A man talks on a phone in a city .
+TopHypScore: (0.025018459186, 0.00104432064109, 0.973937213421)
+
+TopHyp[2][7244]: The children are in the cafeteria .
+TopHypScore: (0.0233374089003, 0.00787481293082, 0.96878772974)
+
+TopHyp[3][4521]: The car enthusiasts cheer .
+TopHypScore: (0.00118328048848, 0.0396719053388, 0.959144830704)
+
+TopHyp[4][2204]: people are dressed in costume
+TopHypScore: (0.00776722235605, 0.0368530526757, 0.955379664898)
+
+TopHyp[5][5620]: A person in a uniform
+TopHypScore: (0.00224098493345, 0.0473382920027, 0.950420677662)
+
+TopHyp[6][7930]: A woman walks near a building .
+TopHypScore: (0.0119708897546, 0.0441931150854, 0.943836033344)
+
+TopHyp[7][9261]: The people are near a building .
+TopHypScore: (0.0153203010559, 0.0427485443652, 0.941931128502)
+
+TopHyp[8][4630]: Women are holding hands .
+TopHypScore: (0.0361250117421, 0.0369643829763, 0.926910638809)
+
+TopHyp[9][7220]: A person in a shirt
+TopHypScore: (0.00761409243569, 0.0664986744523, 0.925887286663)
+
+Prm[92]: A woman is writing something on a post-it note which is hanging on a bulletin board with a lot of other post-it notes .
+Hyp[1][92]: The woman is writing a grocery list .
+HypScore: (0.46350094676, 0.40952706337, 0.126971945167)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (3.39121697834e-06, 0.99999666214, 5.04468064544e-11)
+
+TopHyp[1][6171]: A little boy is playing soccer outside .
+TopHypScore: (0.000142193413922, 0.999857664108, 1.31564405592e-07)
+
+TopHyp[2][9571]: Football players are playing chess .
+TopHypScore: (0.000169225037098, 0.99983048439, 2.62671221662e-07)
+
+TopHyp[3][1786]: A man playing a guitar for a small crowd .
+TopHypScore: (0.000189977421542, 0.999809443951, 5.41991482805e-07)
+
+TopHyp[4][8601]: A young boy is playing hockey .
+TopHypScore: (0.000192548104678, 0.999807178974, 2.08946076441e-07)
+
+TopHyp[5][4325]: A little boy eats a red popsicle
+TopHypScore: (0.000279385043541, 0.999720513821, 1.55486731046e-07)
+
+TopHyp[6][8869]: There is a man watching another man .
+TopHypScore: (0.000294627767289, 0.999704539776, 8.87585599685e-07)
+
+TopHyp[7][4513]: Several boys are playing basketball inside against each other .
+TopHypScore: (0.000352662609657, 0.999647378922, 8.67634231128e-09)
+
+TopHyp[8][4289]: A boy is playing with some crayons .
+TopHypScore: (0.000398024363676, 0.999600827694, 1.21644484352e-06)
+
+TopHyp[9][3823]: A little boy is playing inside his bedroom
+TopHypScore: (0.000455038738437, 0.999544680119, 2.81350253317e-07)
+
+Prm[93]: A woman is writing something on a post-it note which is hanging on a bulletin board with a lot of other post-it notes .
+Hyp[0][93]: The woman is talking on the phone .
+HypScore: (0.328609675169, 0.459335237741, 0.212055101991)
+
+TopHyp[0][7976]: a woman calls her kids
+TopHypScore: (1.0, 5.36845305987e-08, 1.1181605121e-11)
+
+TopHyp[1][6367]: Children are getting wet on purpose .
+TopHypScore: (1.0, 1.63883140392e-09, 9.86071287964e-16)
+
+TopHyp[2][5975]: A man with a lab coat works in a lab .
+TopHypScore: (1.0, 1.79569154685e-11, 7.82230744564e-16)
+
+TopHyp[3][1735]: Someone wrecked their car a long time ago .
+TopHypScore: (1.0, 5.83533079634e-08, 2.01007233861e-13)
+
+TopHyp[4][1652]: Someone performing a jump with a bicycle .
+TopHypScore: (1.0, 3.83048188723e-08, 3.47566458036e-13)
+
+TopHyp[5][351]: Two women sitting at their workplace desks .
+TopHypScore: (1.0, 1.33417554782e-10, 8.5512389067e-15)
+
+TopHyp[6][62]: The man stumbles stumbles in rollerskates .
+TopHypScore: (1.0, 3.23763309495e-08, 2.35024759493e-19)
+
+TopHyp[7][4252]: A man is about to jump off a cliff into some water .
+TopHypScore: (0.999999880791, 7.24823721043e-08, 6.82646755963e-14)
+
+TopHyp[8][4140]: A man waiting for someone while sitting on the grass .
+TopHypScore: (0.999999880791, 1.31787558644e-07, 1.66217636877e-10)
+
+TopHyp[9][803]: The jumping lady in slacks also has her hand raised .
+TopHypScore: (0.999999880791, 1.21350055338e-07, 2.84300408465e-14)
+
+Prm[94]: A woman is writing something on a post-it note which is hanging on a bulletin board with a lot of other post-it notes .
+Hyp[2][94]: The woman is writing a note .
+HypScore: (0.368286013603, 0.318474709988, 0.313239276409)
+
+TopHyp[0][4146]: people stand near pole
+TopHypScore: (8.11211575638e-05, 0.00874649360776, 0.991172373295)
+
+TopHyp[1][6001]: There are people near a beach .
+TopHypScore: (0.0114244455472, 0.00679784500971, 0.981777667999)
+
+TopHyp[2][7244]: The children are in the cafeteria .
+TopHypScore: (0.0141358226538, 0.0145399775356, 0.971324145794)
+
+TopHyp[3][7930]: A woman walks near a building .
+TopHypScore: (0.0196753963828, 0.0239580143243, 0.956366598606)
+
+TopHyp[4][2107]: People cheer on the bikers .
+TopHypScore: (0.00496553210542, 0.0453994944692, 0.949634969234)
+
+TopHyp[5][5575]: a couple are reunited
+TopHypScore: (0.0153021560982, 0.0416702069342, 0.943027615547)
+
+TopHyp[6][2939]: Two people stand by a building .
+TopHypScore: (0.00695407390594, 0.0508554205298, 0.942190468311)
+
+TopHyp[7][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.00872597005218, 0.0522428266704, 0.93903118372)
+
+TopHyp[8][4630]: Women are holding hands .
+TopHypScore: (0.0286808628589, 0.0330100022256, 0.938309073448)
+
+TopHyp[9][2204]: people are dressed in costume
+TopHypScore: (0.0255700778216, 0.041879016906, 0.932550907135)
+
+Prm[95]: A baby at the end of a slip and slide at a party
+Hyp[2][95]: The baby is wet .
+HypScore: (0.948826014996, 0.051041085273, 0.000132878223667)
+
+TopHyp[0][3624]: A man talks on a phone in a city .
+TopHypScore: (0.0052480539307, 0.00244223163463, 0.992309689522)
+
+TopHyp[1][4146]: people stand near pole
+TopHypScore: (8.83706234163e-05, 0.0151879414916, 0.984723687172)
+
+TopHyp[2][7244]: The children are in the cafeteria .
+TopHypScore: (0.0124966409057, 0.0220560189337, 0.965447366238)
+
+TopHyp[3][7930]: A woman walks near a building .
+TopHypScore: (0.00749914254993, 0.0299958102405, 0.962505042553)
+
+TopHyp[4][2939]: Two people stand by a building .
+TopHypScore: (0.00336739397608, 0.036634221673, 0.959998369217)
+
+TopHyp[5][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.0128570385277, 0.0479320809245, 0.939210891724)
+
+TopHyp[6][4198]: A couple of people stand on stage .
+TopHypScore: (0.0052951220423, 0.0557625629008, 0.93894225359)
+
+TopHyp[7][2144]: A woman in a restaurant .
+TopHypScore: (0.0180784706026, 0.0504360571504, 0.93148547411)
+
+TopHyp[8][2204]: people are dressed in costume
+TopHypScore: (0.0122575769201, 0.0565290115774, 0.931213438511)
+
+TopHyp[9][9261]: The people are near a building .
+TopHypScore: (0.0294298473746, 0.0434335097671, 0.927136659622)
+
+Prm[96]: A baby at the end of a slip and slide at a party
+Hyp[0][96]: The man is at the end of the slip and slide
+HypScore: (0.362365841866, 0.434245824814, 0.203388273716)
+
+TopHyp[0][6367]: Children are getting wet on purpose .
+TopHypScore: (1.0, 4.84037308013e-08, 9.67408119758e-13)
+
+TopHyp[1][2770]: A man throws a ball to a boy .
+TopHypScore: (0.999987363815, 1.26611284941e-05, 3.8843878114e-10)
+
+TopHyp[2][2454]: A man 's feet are not touching the ground .
+TopHypScore: (0.999976277351, 2.36893738474e-05, 1.83109207796e-08)
+
+TopHyp[3][62]: The man stumbles stumbles in rollerskates .
+TopHypScore: (0.999973297119, 2.67435607384e-05, 5.16465634094e-14)
+
+TopHyp[4][8260]: man in bear suit
+TopHypScore: (0.999969363213, 3.04652749037e-05, 9.86758195154e-08)
+
+TopHyp[5][351]: Two women sitting at their workplace desks .
+TopHypScore: (0.999968528748, 3.1427556678e-05, 1.92367588525e-09)
+
+TopHyp[6][3315]: A couple are in divorce court .
+TopHypScore: (0.999937772751, 6.20385908405e-05, 2.88475376919e-07)
+
+TopHyp[7][5975]: A man with a lab coat works in a lab .
+TopHypScore: (0.999931335449, 6.86685816618e-05, 7.77161945908e-10)
+
+TopHyp[8][1256]: A dog plays with a soccer ball .
+TopHypScore: (0.99992108345, 7.86091186455e-05, 3.11190859748e-07)
+
+TopHyp[9][2805]: Two kids are getting water .
+TopHypScore: (0.999905347824, 9.45187348407e-05, 7.07027041358e-08)
+
+Prm[97]: A baby at the end of a slip and slide at a party
+Hyp[2][97]: There is a party
+HypScore: (0.0752849206328, 0.187716037035, 0.736999034882)
+
+TopHyp[0][3624]: A man talks on a phone in a city .
+TopHypScore: (0.0052480539307, 0.00244223163463, 0.992309689522)
+
+TopHyp[1][4146]: people stand near pole
+TopHypScore: (8.83706234163e-05, 0.0151879414916, 0.984723687172)
+
+TopHyp[2][7244]: The children are in the cafeteria .
+TopHypScore: (0.0124966409057, 0.0220560189337, 0.965447366238)
+
+TopHyp[3][7930]: A woman walks near a building .
+TopHypScore: (0.00749914254993, 0.0299958102405, 0.962505042553)
+
+TopHyp[4][2939]: Two people stand by a building .
+TopHypScore: (0.00336739397608, 0.036634221673, 0.959998369217)
+
+TopHyp[5][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.0128570385277, 0.0479320809245, 0.939210891724)
+
+TopHyp[6][4198]: A couple of people stand on stage .
+TopHypScore: (0.0052951220423, 0.0557625629008, 0.93894225359)
+
+TopHyp[7][2144]: A woman in a restaurant .
+TopHypScore: (0.0180784706026, 0.0504360571504, 0.93148547411)
+
+TopHyp[8][2204]: people are dressed in costume
+TopHypScore: (0.0122575769201, 0.0565290115774, 0.931213438511)
+
+TopHyp[9][9261]: The people are near a building .
+TopHypScore: (0.0294298473746, 0.0434335097671, 0.927136659622)
+
+Prm[98]: A girl swings high in the air .
+Hyp[1][98]: A girl is gaining momentum to flip off the swing
+HypScore: (0.33151692152, 0.644575238228, 0.0239078104496)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (2.43323171389e-07, 0.999999761581, 2.31857474843e-13)
+
+TopHyp[1][932]: A man is playing an acoustic guitar on the sidewalk while a woman and a man walk down the sidewalk .
+TopHypScore: (4.49138451586e-06, 0.999995470047, 1.2797740645e-09)
+
+TopHyp[2][7574]: a boy kisses another boy
+TopHypScore: (6.17256455371e-06, 0.999993801117, 1.93671953475e-10)
+
+TopHyp[3][9571]: Football players are playing chess .
+TopHypScore: (1.72876334545e-05, 0.999982595444, 9.49546077322e-08)
+
+TopHyp[4][6799]: Several male curling players sweeping their path on ice in front of a rock as a small crowd watches .
+TopHypScore: (1.69719878613e-05, 0.999982357025, 7.72125190451e-07)
+
+TopHyp[5][6171]: A little boy is playing soccer outside .
+TopHypScore: (2.01467082661e-05, 0.99997985363, 4.92515006556e-09)
+
+TopHyp[6][8601]: A young boy is playing hockey .
+TopHypScore: (2.82884120679e-05, 0.999971747398, 4.29941522384e-08)
+
+TopHyp[7][8270]: The boy is playing soccer .
+TopHypScore: (6.22060761089e-05, 0.999937772751, 1.24290044923e-08)
+
+TopHyp[8][4513]: Several boys are playing basketball inside against each other .
+TopHypScore: (7.19688978279e-05, 0.999927997589, 1.57390847022e-08)
+
+TopHyp[9][816]: A little boy is playing guitar on stage .
+TopHypScore: (8.35164100863e-05, 0.999916315079, 1.50108689922e-07)
+
+Prm[99]: A girl swings high in the air .
+Hyp[0][99]: A girl is laying in the pool
+HypScore: (0.0281695649028, 0.0757194831967, 0.896111011505)
+
+TopHyp[0][351]: Two women sitting at their workplace desks .
+TopHypScore: (1.0, 4.53883437501e-08, 4.7055442225e-13)
+
+TopHyp[1][8024]: The women are Spanish
+TopHypScore: (0.999999403954, 5.50190804915e-07, 2.68347219445e-11)
+
+TopHyp[2][6690]: A dog at the dog groomers , gets a bath , a blow dry , and a nice brushing .
+TopHypScore: (0.999998688698, 1.35922755362e-06, 2.30549371581e-16)
+
+TopHyp[3][5357]: women carry food on plates
+TopHypScore: (0.999998688698, 1.31571857764e-06, 1.81131415422e-10)
+
+TopHyp[4][3936]: The woman is sitting alone , silent , reading .
+TopHypScore: (0.999998688698, 1.30174134938e-06, 5.32330603209e-12)
+
+TopHyp[5][4626]: Two women walking around a pond , talking .
+TopHypScore: (0.99999833107, 1.63734091529e-06, 9.69074560181e-12)
+
+TopHyp[6][1910]: Two women are sleeping .
+TopHypScore: (0.999997615814, 2.38626716964e-06, 2.0808922585e-08)
+
+TopHyp[7][1770]: Male in brown leather jacket and black slacks , looking down at his giraffe
+TopHypScore: (0.999995827675, 4.20833202952e-06, 2.22110271154e-15)
+
+TopHyp[8][9282]: All of the people in the photo are women .
+TopHypScore: (0.999995350838, 4.59080047222e-06, 1.51735046749e-09)
+
+TopHyp[9][3004]: two women jump for joy
+TopHypScore: (0.999995112419, 4.85636610392e-06, 9.99037297333e-10)
+
+Prm[100]: A girl swings high in the air .
+Hyp[2][100]: A girl is on a swing
+HypScore: (0.750512778759, 0.24060985446, 0.00887734629214)
+
+TopHyp[0][7244]: The children are in the cafeteria .
+TopHypScore: (0.000602817279287, 0.00182221853174, 0.997574985027)
+
+TopHyp[1][6001]: There are people near a beach .
+TopHypScore: (0.00130002410151, 0.00802957452834, 0.990670442581)
+
+TopHyp[2][5575]: a couple are reunited
+TopHypScore: (0.00105436809827, 0.00889564678073, 0.990049958229)
+
+TopHyp[3][7930]: A woman walks near a building .
+TopHypScore: (0.00121399073396, 0.0100458245724, 0.98874014616)
+
+TopHyp[4][3624]: A man talks on a phone in a city .
+TopHypScore: (0.0114518161863, 0.000809280201793, 0.987738907337)
+
+TopHyp[5][3638]: A woman going for a walk near a car and some other people .
+TopHypScore: (0.000943582621403, 0.0118802245706, 0.987176239491)
+
+TopHyp[6][2177]: The man is near the car .
+TopHypScore: (0.000598855025601, 0.0133934644982, 0.986007630825)
+
+TopHyp[7][4521]: The car enthusiasts cheer .
+TopHypScore: (6.19320708211e-05, 0.0149395400658, 0.984998524189)
+
+TopHyp[8][6948]: There are people outside .
+TopHypScore: (0.00245468714274, 0.0129051348194, 0.984640240669)
+
+TopHyp[9][5483]: There are people outside .
+TopHypScore: (0.00245468714274, 0.0129051348194, 0.984640240669)
+
+Prm[101]: A view of the back of a woman having a beverage .
+Hyp[1][101]: woman drinks a beer
+HypScore: (0.813322842121, 0.110011227429, 0.07666593045)
+
+TopHyp[0][274]: A boy is playing on an inflatable ride .
+TopHypScore: (6.0875777308e-07, 0.999999403954, 1.56590660577e-11)
+
+TopHyp[1][932]: A man is playing an acoustic guitar on the sidewalk while a woman and a man walk down the sidewalk .
+TopHypScore: (3.33681418851e-05, 0.999966621399, 6.43621422824e-09)
+
+TopHyp[2][1825]: A sad girl in a green knit cap stands ready to push a sled , with a little boy behind her .
+TopHypScore: (6.55101539451e-05, 0.999934315681, 6.02577472364e-08)
+
+TopHyp[3][1991]: A dark-haired girl in a spotted shirt is pointing at the picture while sitting next to a boy wearing a purple shirt and jeans .
+TopHypScore: (0.000108833468403, 0.999891042709, 1.25836649545e-07)
+
+TopHyp[4][2117]: A person is staring at a girl he think he recognizes .
+TopHypScore: (0.000151267129695, 0.999732792377, 0.000115907103464)
+
+TopHyp[5][275]: A boy pierces a knife through an inflatable ride .
+TopHypScore: (0.000369321205653, 0.999630570412, 6.42903756898e-08)
+
+TopHyp[6][1619]: An old man playing an instrument for a bunch of boyscouts at an outdoor concert .
+TopHypScore: (0.000424763507908, 0.999574244022, 1.00085696886e-06)
+
+TopHyp[7][4675]: A man in a blue shirt , khaki shorts , ball cap and blue socks and loafers walking behind a group of people walking down a stone walkway with a water bottle in his left hand .
+TopHypScore: (0.000486193865072, 0.999513030052, 7.82215920481e-07)
+
+TopHyp[8][1194]: A boy is playing tennis .
+TopHypScore: (0.000521115027368, 0.99947565794, 3.17465173794e-06)
+
+TopHyp[9][1957]: A festival displays two men dressed up in red makeup and costume , while an older man has some cream on his face .
+TopHypScore: (0.000539898115676, 0.999460160732, 3.58017615554e-10)
+

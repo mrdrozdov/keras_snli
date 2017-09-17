@@ -5,6 +5,7 @@ import os
 import re
 import tarfile
 import tempfile
+import hashlib
 
 import numpy as np
 np.random.seed(1337)  # for reproducibility
@@ -46,6 +47,11 @@ from keras.utils import np_utils
 def extract_tokens_from_binary_parse(parse):
     return parse.replace('(', ' ').replace(')', ' ').replace('-LRB-', '(').replace('-RRB-', ')').split()
 
+def hash_sent(s):
+  m = hashlib.sha256()
+  m.update(s)
+  return m.digest()
+
 def yield_examples(fn, skip_no_majority=True, limit=None):
   for i, line in enumerate(open(fn)):
     if limit and i > limit:
@@ -54,22 +60,41 @@ def yield_examples(fn, skip_no_majority=True, limit=None):
     label = data['gold_label']
     s1 = ' '.join(extract_tokens_from_binary_parse(data['sentence1_binary_parse']))
     s2 = ' '.join(extract_tokens_from_binary_parse(data['sentence2_binary_parse']))
+    s1_key = hash_sent(s1)
+    s2_key = hash_sent(s2)
     if skip_no_majority and label == '-':
       continue
-    yield (label, s1, s2)
+    yield (label, s1, s2, s1_key, s2_key)
+
+def sda(d, k, v):
+  d.setdefault(k, []).append(v)
 
 def get_data(fn, limit=None):
   raw_data = list(yield_examples(fn=fn, limit=limit))
-  left = [s1 for _, s1, s2 in raw_data]
-  right = [s2 for _, s1, s2 in raw_data]
+  left = [s1 for _, s1, s2, s1k, s2k in raw_data]
+  right = [s2 for _, s1, s2, s1k, s2k in raw_data]
+  left_key = [s1k for _, s1, s2, s1k, s2k in raw_data]
+  right_key = [s2k for _, s1, s2, s1k, s2k in raw_data]
   print(max(len(x.split()) for x in left))
   print(max(len(x.split()) for x in right))
+
+  l2r, r2l = dict(), dict()
+
+  for i, (lk, rk) in enumerate(zip(left_key, right_key)):
+    l2r.setdefault(lk, []).append(i)  # all pairs that have the same premise
+    r2l.setdefault(rk, []).append(i)  # all pairs that have the same hypothesis
+
+  extra_dict = dict()
+  extra_dict.update(left_key=left_key)
+  extra_dict.update(right_key=right_key)
+  extra_dict.update(l2r=l2r)
+  extra_dict.update(r2l=r2l)
 
   LABELS = {'contradiction': 0, 'neutral': 1, 'entailment': 2}
   Y = np.array([LABELS[l] for l, s1, s2 in raw_data])
   Y = np_utils.to_categorical(Y, len(LABELS))
 
-  return left, right, Y
+  return left, right, Y, extra_dict
 
 if __name__ == '__main__':
     training = get_data(os.path.expanduser('~/data/snli_1.0/snli_1.0_train.jsonl'))

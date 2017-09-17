@@ -65,13 +65,13 @@ class Model(nn.Module):
             self.time_distributed_1.weight.data.set_(tfp(time_distributed_1.T))
             self.time_distributed_1.bias.data.set_(tfp(time_distributed_1b))
 
-            self.dense_2 = nn.Linear(600, 600)
+            # self.dense_2 = nn.Linear(600, 600)
             self.dense_3 = nn.Linear(600, 600)
             self.dense_4 = nn.Linear(600, 600)
             self.dense_5 = nn.Linear(600, 3)
 
-            self.dense_2.weight.data.set_(tfp(dense_2.T))
-            self.dense_2.bias.data.set_(tfp(dense_2b))
+            # self.dense_2.weight.data.set_(tfp(dense_2.T))
+            # self.dense_2.bias.data.set_(tfp(dense_2b))
             self.dense_3.weight.data.set_(tfp(dense_3.T))
             self.dense_3.bias.data.set_(tfp(dense_3b))
             self.dense_4.weight.data.set_(tfp(dense_4.T))
@@ -79,9 +79,16 @@ class Model(nn.Module):
             self.dense_5.weight.data.set_(tfp(dense_5.T))
             self.dense_5.bias.data.set_(tfp(dense_5b))
 
-    def forward(self, p, h):
-        b, _ = p.size()
-        _, _ = h.size()
+            self.dense_2_p = nn.Linear(300, 600)
+            self.dense_2_h = nn.Linear(300, 600, bias=False)
+
+            self.dense_2_p.weight.data.set_(tfp(dense_2.T[:, :300]))
+            self.dense_2_p.bias.data.set_(tfp(dense_2b))
+            self.dense_2_h.weight.data.set_(tfp(dense_2.T[:, 300:]))
+
+    def forward(self, p, h, product=False):
+        bp, _ = p.size()
+        bh, _ = h.size()
         ew = self.embedding_1.weight.data.size(1)
 
         x = torch.cat([p, h], 0)
@@ -89,11 +96,19 @@ class Model(nn.Module):
         e = e.view(-1, ew)
 
         zt = F.relu(self.time_distributed_1(e))  # translate
-        zs = zt.view(b * 2, -1, ew).sum(1).squeeze()  # sum
-        psum, hsum = zs[:b], zs[b:]
-        z = torch.cat([psum, hsum], 1)
+        zs = zt.view(bp + bh, -1, ew).sum(1).squeeze()  # sum
+        psum, hsum = zs[:bp], zs[bp:]
 
-        h2 = F.relu(self.dense_2(z))
+        h2p = self.dense_2_p(psum)
+        h2h = self.dense_2_h(hsum)
+
+        if product:
+            h2multi = (h2p.unsqueeze(1) + h2h.unsqueeze(0)).view(bp * bh, h2p.size(1))
+            h2 = F.relu(h2multi)
+        else:
+            h2 = F.relu(h2p + h2h)
+
+        # h2 = F.relu(self.dense_2(z))
         h3 = F.relu(self.dense_3(h2))
         h4 = F.relu(self.dense_4(h3))
         h5 = self.dense_5(h4)
